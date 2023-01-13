@@ -4,7 +4,8 @@
 
 ### R Projects
 
-[Project 1 : Data Quality Assessment, Preprocessing and Exploration for a Classification Modelling Problem](https://johnpaulinepineda.github.io/Portfolio_Project_1/)
+###[Project 1 : Data Quality Assessment, Preprocessing and Exploration for a Classification Modelling Problem](https://johnpaulinepineda.github.io/Portfolio_Project_1/)
+<br><br>
 This project explores the various methods in assessing data quality, implementing data preprocessing and conducting exploratory analysis for prediction problems with categorical responses.
 
 ---
