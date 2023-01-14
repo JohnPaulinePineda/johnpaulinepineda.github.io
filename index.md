@@ -34,6 +34,12 @@ This project explores the various univariate filters in selecting informative pr
 
 ---
 
+[Selecting Informative Predictors Using Recursive Feature Elimination](https://johnpaulinepineda.github.io/Portfolio_Project_17/)
+<br><br>
+This project implements recursive feature elimination in selecting informative predictors for a modelling problem using the Random Forest, Linear Discriminant Analysis, Naive Bayes, Logistic Regression and K-Nearest Neighbors model structures. The resulting predictions derived from the candidate models applying recursive feature elimination were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to that of the baseline models which made use of the full data without any form of feature selection, or implemented a model-specific feature selection process.
+
+---
+
 [Treatment Comparison Tests Between a Single Two-Level Factor Variable and a Single Numeric Response Variable](https://johnpaulinepineda.github.io/Portfolio_Project_3/)
 <br><br>
 This project explores the various methods in comparatively evaluating the numeric response data between two treatment groups in a clinical trial. Statistical tests applied in the analysis included the Student’s T-Test, Welch T-Test, Wilcoxon Rank-Sum Test and Robust Rank-Order Test.
