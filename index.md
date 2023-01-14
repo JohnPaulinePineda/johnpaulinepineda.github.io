@@ -30,13 +30,13 @@ This project explores the various remedial procedures for handling skewed data w
 
 [Selecting Informative Predictors Using Univariate Filters](https://johnpaulinepineda.github.io/Portfolio_Project_18/)
 <br><br>
-This project explores the various univariate filters in selecting informative predictors for a modelling problem. Using the Linear Discriminant Analysis, Random Forest and Naive Bayes model structures, feature selection methods applied in the analysis included the P-Value Threshold Computed with Bonferroni Correction and Correlation Cutoff. The resulting predictions derived from the candidate models applying various univariate filters were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to that of the baseline models which made use of the full data without any form of feature selection.
+This project explores the various univariate filters in selecting informative predictors for a modelling problem. Using the Linear Discriminant Analysis, Random Forest and Naive Bayes model structures, feature selection methods applied in the analysis included the P-Value Threshold Computed with Bonferroni Correction and Correlation Cutoff. The resulting predictions derived from the candidate models applying various univariate filters were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to those of the baseline models which made use of the full data without any form of feature selection.
 
 ---
 
 [Selecting Informative Predictors Using Recursive Feature Elimination](https://johnpaulinepineda.github.io/Portfolio_Project_17/)
 <br><br>
-This project implements recursive feature elimination in selecting informative predictors for a modelling problem using the Random Forest, Linear Discriminant Analysis, Naive Bayes, Logistic Regression and K-Nearest Neighbors model structures. The resulting predictions derived from the candidate models applying recursive feature elimination were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to that of the baseline models which made use of the full data without any form of feature selection, or implemented a model-specific feature selection process.
+This project implements recursive feature elimination in selecting informative predictors for a modelling problem using the Random Forest, Linear Discriminant Analysis, Naive Bayes, Logistic Regression and K-Nearest Neighbors model structures. The resulting predictions derived from the candidate models applying recursive feature elimination were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to those of the baseline models which made use of the full data without any form of feature selection, or implemented a model-specific feature selection process.
 
 ---
 
