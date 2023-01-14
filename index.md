@@ -4,45 +4,47 @@
 
 ### R Projects
 
-[Project 1 : Data Quality Assessment, Preprocessing and Exploration for a Classification Modelling Problem](https://johnpaulinepineda.github.io/Portfolio_Project_1/)
+[Treatment Comparison Tests Between a Single Two-Level Factor Variable and a Single Numeric Response Variable](https://johnpaulinepineda.github.io/Portfolio_Project_3/)
 <br><br>
-This project explores the various methods in assessing data quality, implementing data preprocessing and conducting exploratory analysis for prediction problems with categorical responses.
+This project explores the various methods in comparatively evaluating the numeric response data between two treatment groups in a clinical trial. Statistical tests applied in the analysis included the Student’s T-Test, Welch T-Test, Wilcoxon Rank-Sum Test and Robust Rank-Order Test.
 
 ---
 
-[Project 2 : Data Quality Assessment, Preprocessing and Exploration for a Regression Modelling Problem](https://johnpaulinepineda.github.io/Portfolio_Project_2/)
+[Data Quality Assessment, Preprocessing and Exploration for a Regression Modelling Problem](https://johnpaulinepineda.github.io/Portfolio_Project_2/)
 <br><br>
-This project explores the various methods in assessing data quality, implementing data preprocessing and conducting exploratory analysis for prediction problems with numeric responses.
+This project explores the various methods in assessing data quality, implementing data preprocessing and conducting exploratory analysis for prediction problems with numeric responses. Remedial procedures addressing data quality issues including missing data, extreme outlying points, near-zero variance, multicollinearity and skewed distributions were evaluated.
 
 ---
 
-[Project 3 : Treatment Comparison Tests Between a Single Two-Level Factor Variable and a Single Numeric Response Variable](https://johnpaulinepineda.github.io/Portfolio_Project_3/)
+[Data Quality Assessment, Preprocessing and Exploration for a Classification Modelling Problem](https://johnpaulinepineda.github.io/Portfolio_Project_1/)
 <br><br>
-This project explores the various methods in comparatively evaluating the numeric response data between two treatment groups in a clinical trial.
+This project explores the various methods in assessing data quality, implementing data preprocessing and conducting exploratory analysis for prediction problems with categorical responses. Remedial procedures addressing data quality issues including missing data, extreme outlying points, near-zero variance, multicollinearity and skewed distributions were evaluated.
+
+### Scientific Papers
+
+[High Diagnostic Accuracy of Epigenetic Imprinting Biomarkers in Thyroid Nodules](https://ascopubs.org/doi/10.1200/JCO.22.00232)
+<br><br>
+This paper published in the Journal of Clinical Oncology is a collaborative study on formulating a thyroid cancer predicton model using epigenetic imprinting biomarkers. Statistical methods were applied accordingly during differential analysis; gene screening study; and diagnostic grading model building, optimization and validation. The receiver operating characteristics (ROC) curve area under the curve (AUC) was used to measure the discrimination power of the candidate predictors, with the classification performance of the candidate models were evaluated using sensitivity, specificity, positive predictive value (PPV) and negative predictive value (NPV). The final prediction model was internally validated using a 500-cycle optimism-adjusted bootstrap and externally validated using an independent cohort.
 
 ---
 
-[Project 1 Title](/sample_page)
-This project
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Epigenetic Imprinting Alterations as Effective Diagnostic Biomarkers for Early-Stage Lung Cancer and Small Pulmonary Nodules](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-021-01203-5)
+<br><br>
+This paper published in Clinical Epigenetics is a collaborative study on formulating a lung cancer predicton model using epigenetic imprinting biomarkers. Statistical methods were applied accordingly during differential analysis; gene screening study; and diagnostic grading model building, optimization and validation. The receiver operating characteristics (ROC) curve area under the curve (AUC) was used to measure the discrimination power of the candidate predictors, with the classification performance of the candidate models evaluated using sensitivity and specificity. The final prediction model was externally validated using an independent cohort.
 
 ---
 
-### Category Name 2
+[Novel Visualized Quantitative Epigenetic Imprinted Gene Biomarkers Diagnose the Malignancy of Ten Cancer Types](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-020-00861-1)
+<br><br>
+This paper published in Clinical Epigenetics is a collaborative study on malignancy differentiation for bladder, colorectal, gastric, pancreatic, skin, breast, esophagus, lung, prostate and thyoid tumors using epigenetic imprinting biomarkers. Statistical methods were applied accordingly during differential analysis; gene screening study; and diagnostic classification model building. The receiver operating characteristics (ROC) curve area under the curve (AUC) was used to measure the discrimination power of the candidate predictors, with the classification performance of the candidate models evaluated using sensitivity and specificity. The preliminary models presented were exploratory in nature and were not externally validated using an independent cohort.
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Conference Abstracts
+
+- [Intronic Noncoding RNA Expression of DCN is Related to Cancer-Associated Fibroblasts and NSCLC Patients’ Prognosis](https://www.jto.org/article/S1556-0864(21)00892-3/fulltext)
+- [Epigenetic Imprinted Genes as Biomarkers for the Proactive Detection and Accurate Presurgical Diagnosis of Small Lung Nodules](https://www.jto.org/article/S1556-0864(21)00820-0/fulltext)
+- [Effect of Epigenetic Imprinting Biomarkers in Urine Exfoliated Cells (UEC) on the Diagnostic Accuracy of Low-Grade Bladder Cancer](https://ascopubs.org/doi/10.1200/JCO.2020.38.15_suppl.e17027)
+- [Epigenetic Imprinted Gene Biomarkers Significantly Improve the Accuracy of Presurgical Bronchoscopy Diagnosis of Lung Cancer](https://ascopubs.org/doi/10.1200/JCO.2020.38.15_suppl.e21055)
+- [Quantitative Chromogenic Imprinted Gene In Situ Hybridization (QCIGISH) Technique Could Diagnose Lung Cancer Accurately](https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A4452)
 
 ---
 
