@@ -20,6 +20,8 @@ This project explores the various methods in assessing data quality, implementin
 <br><br>
 This project explores the various methods in assessing data quality, implementing data preprocessing and conducting exploratory analysis for prediction problems with categorical responses. Remedial procedures addressing data quality issues including missing data, extreme outlying points, near-zero variance, multicollinearity and skewed distributions were evaluated.
 
+---
+
 ### Scientific Papers
 
 [High Diagnostic Accuracy of Epigenetic Imprinting Biomarkers in Thyroid Nodules](https://ascopubs.org/doi/10.1200/JCO.22.00232)
@@ -37,6 +39,8 @@ This paper published in Clinical Epigenetics is a collaborative study on formula
 [Novel Visualized Quantitative Epigenetic Imprinted Gene Biomarkers Diagnose the Malignancy of Ten Cancer Types](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-020-00861-1)
 <br><br>
 This paper published in Clinical Epigenetics is a collaborative study on malignancy differentiation for bladder, colorectal, gastric, pancreatic, skin, breast, esophagus, lung, prostate and thyoid tumors using epigenetic imprinting biomarkers. Statistical methods were applied accordingly during differential analysis; gene screening study; and diagnostic classification model building. The receiver operating characteristics (ROC) curve area under the curve (AUC) was used to measure the discrimination power of the candidate predictors, with the classification performance of the candidate models evaluated using sensitivity and specificity. The preliminary models presented were exploratory in nature and were not externally validated using an independent cohort.
+
+---
 
 ### Conference Abstracts
 
