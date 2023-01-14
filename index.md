@@ -47,10 +47,5 @@ This paper published in Clinical Epigenetics is a collaborative study on maligna
 - [Quantitative Chromogenic Imprinted Gene In Situ Hybridization (QCIGISH) Technique Could Diagnose Lung Cancer Accurately](https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A4452)
 
 ---
-
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
