@@ -10,6 +10,12 @@ This project manually implements the gradient descent algorithm and evaluates a 
 
 ---
 
+[Formulating Segmented Groups Using Clustering Algorithms](https://johnpaulinepineda.github.io/Portfolio_Project_22/)
+<br><br>
+This project explores the various clustering algorithms for segmenting information. Methods applied in the analysis to cluster high dimensional data included the K-Means, Partitioning Around Medoids, Fuzzy Analysis Clustering, Hierarchical Clustering, Agglomerative Nesting and Divisive Analysis Clustering algorithms. The different clustering algorithms were subjectively evaluated based on their capability to effectively capture the latent characteristics between the different resulting clusters. In addition, the values for the average silhouette width obtained for each algorithm were also assessed for an objective comparison of their clustering performance.
+
+---
+
 [Treatment Comparison Tests Between a Single Two-Level Factor Variable and a Single Numeric Response Variable](https://johnpaulinepineda.github.io/Portfolio_Project_3/)
 <br><br>
 This project explores the various methods in comparatively evaluating the numeric response data between two treatment groups in a clinical trial. Statistical tests applied in the analysis included the Student’s T-Test, Welch T-Test, Wilcoxon Rank-Sum Test and Robust Rank-Order Test.
