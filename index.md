@@ -6,7 +6,7 @@
 
 [Implementing Gradient Descent Algorithm in Estimating Regression Coefficients](https://johnpaulinepineda.github.io/Portfolio_Project_23/)
 <br><br>
-This project manually implements the gradient descent algorithm and evaluates a range of values for the learning rate and epoch count parameters to optimally estimate the coefficients of a linear regression model. The cost function optimization profiles of the different candidate parameter settings were compared, with the resulting estimated coefficients assessed against those obtained using normal equations which served as the reference baseline values.
+This project manually implements the Gradient Descent algorithm and evaluates a range of values for the learning rate and epoch count parameters to optimally estimate the coefficients of a linear regression model. The cost function optimization profiles of the different candidate parameter settings were compared, with the resulting estimated coefficients assessed against those obtained using normal equations which served as the reference baseline values.
 
 ---
 
@@ -28,15 +28,21 @@ This project explores the various remedial procedures for handling skewed data w
 
 ---
 
+[Selecting Informative Predictors Using Simulated Annealing and Genetic Algorithms](https://johnpaulinepineda.github.io/Portfolio_Project_19/)
+<br><br>
+This project implements Simulated Annealing and Genetic Algorithms in selecting informative predictors for a modelling problem using the Random Forest and Linear Discriminant Analysis structures. The resulting predictions derived from the candidate models applying both Simulated Annealing and Genetic Algorithms were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to those of the baseline models which made use of the full data without any form of feature selection, or implemented a model-specific feature selection process.
+
+---
+
 [Selecting Informative Predictors Using Univariate Filters](https://johnpaulinepineda.github.io/Portfolio_Project_18/)
 <br><br>
-This project explores the various univariate filters in selecting informative predictors for a modelling problem. Using the Linear Discriminant Analysis, Random Forest and Naive Bayes model structures, feature selection methods applied in the analysis included the P-Value Threshold Computed with Bonferroni Correction and Correlation Cutoff. The resulting predictions derived from the candidate models applying various univariate filters were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to those of the baseline models which made use of the full data without any form of feature selection.
+This project implements Univariate Filters in selecting informative predictors for a modelling problem. Using the Linear Discriminant Analysis, Random Forest and Naive Bayes model structures, feature selection methods applied in the analysis included the P-Value Threshold with Bonferroni Correction and Correlation Cutoff. The resulting predictions derived from the candidate models applying various univariate filters were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to those of the baseline models which made use of the full data without any form of feature selection.
 
 ---
 
 [Selecting Informative Predictors Using Recursive Feature Elimination](https://johnpaulinepineda.github.io/Portfolio_Project_17/)
 <br><br>
-This project implements recursive feature elimination in selecting informative predictors for a modelling problem using the Random Forest, Linear Discriminant Analysis, Naive Bayes, Logistic Regression and K-Nearest Neighbors model structures. The resulting predictions derived from the candidate models applying recursive feature elimination were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to those of the baseline models which made use of the full data without any form of feature selection, or implemented a model-specific feature selection process.
+This project implements Recursive Feature Elimination in selecting informative predictors for a modelling problem using the Random Forest, Linear Discriminant Analysis, Naive Bayes, Logistic Regression and K-Nearest Neighbors model structures. The resulting predictions derived from the candidate models applying Recursive Feature Elimination were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to those of the baseline models which made use of the full data without any form of feature selection, or implemented a model-specific feature selection process.
 
 ---
 
