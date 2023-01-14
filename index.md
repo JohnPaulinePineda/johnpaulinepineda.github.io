@@ -22,6 +22,12 @@ This project explores the various dimensionality reduction algorithms for extrac
 
 ---
 
+[Remedial Procedures for Skewed Data with Extreme Outliers](https://johnpaulinepineda.github.io/Portfolio_Project_20/)
+<br><br>
+This project explores the various remedial procedures for handling skewed data with extreme outliers for classification. Using a Logistic Regression model structure, methods applied in the analysis to address data distribution skewness and outlying points included the Box-Cox Transformation, Yeo-Johnson Transformation, Exponential Transformation, Inverse Hyperbolic Sine Transformation, Base-10 Logarithm Transformation, Natural Logarithm Transformation, Square Root Transformation, Outlier Winsorization Treatment and Outlier Spatial Sign Treatment. The resulting predictions derived from the candidate models applying various remedial procedures were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to that of the baseline model which made use of data without any form of data trasnformation and treatment.
+
+---
+
 [Treatment Comparison Tests Between a Single Two-Level Factor Variable and a Single Numeric Response Variable](https://johnpaulinepineda.github.io/Portfolio_Project_3/)
 <br><br>
 This project explores the various methods in comparatively evaluating the numeric response data between two treatment groups in a clinical trial. Statistical tests applied in the analysis included the Student’s T-Test, Welch T-Test, Wilcoxon Rank-Sum Test and Robust Rank-Order Test.
