@@ -28,6 +28,12 @@ This project explores the various remedial procedures for handling skewed data w
 
 ---
 
+[Selecting Informative Predictors Using Univariate Filters](https://johnpaulinepineda.github.io/Portfolio_Project_18/)
+<br><br>
+This project explores the various univariate filters in selecting informative predictors for a modelling problem. Using the Linear Discriminant Analysis, Random Forest and Naive Bayes model structures, feature selection methods applied in the analysis included the P-Value Threshold Computed with Bonferroni Correction and Correlation Cutoff. The resulting predictions derived from the candidate models applying various univariate filters were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to that of the baseline models which made use of the full data without any form of feature selection.
+
+---
+
 [Treatment Comparison Tests Between a Single Two-Level Factor Variable and a Single Numeric Response Variable](https://johnpaulinepineda.github.io/Portfolio_Project_3/)
 <br><br>
 This project explores the various methods in comparatively evaluating the numeric response data between two treatment groups in a clinical trial. Statistical tests applied in the analysis included the Student’s T-Test, Welch T-Test, Wilcoxon Rank-Sum Test and Robust Rank-Order Test.
