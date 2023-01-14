@@ -16,6 +16,12 @@ This project explores the various clustering algorithms for segmenting informati
 
 ---
 
+[Extracting Information Using Dimensionality Reduction Algorithms](https://johnpaulinepineda.github.io/Portfolio_Project_21/)
+<br><br>
+This project explores the various dimensionality reduction algorithms for extracting information. Methods applied in the analysis to transform and reduce high dimensional data included the Principal Component Analysis, Singular Value Decomposition, Independent Component Analysis, Non-Negative Matrix Factorization, t-Distributed Stochastic Neighbor Embedding and Uniform Manifold Approximation and Projection algorithms. The different dimensionality reduction algorithms were subjectively evaluated based on their capability to effectively capture the latent characteristics between the different resulting components.
+
+---
+
 [Treatment Comparison Tests Between a Single Two-Level Factor Variable and a Single Numeric Response Variable](https://johnpaulinepineda.github.io/Portfolio_Project_3/)
 <br><br>
 This project explores the various methods in comparatively evaluating the numeric response data between two treatment groups in a clinical trial. Statistical tests applied in the analysis included the Student’s T-Test, Welch T-Test, Wilcoxon Rank-Sum Test and Robust Rank-Order Test.
