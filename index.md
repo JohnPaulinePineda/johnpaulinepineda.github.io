@@ -22,7 +22,7 @@ This project explores the various methods in assessing data quality, implementin
 
 ---
 
-### Scientific Papers
+### Scientific Research Papers
 
 [High Diagnostic Accuracy of Epigenetic Imprinting Biomarkers in Thyroid Nodules](https://ascopubs.org/doi/10.1200/JCO.22.00232)
 <br><br>
