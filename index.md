@@ -46,6 +46,20 @@ This project implements Recursive Feature Elimination in selecting informative p
 
 ---
 
+[Evaluating Model-Independent Feature Importance for Predictors with Dichotomous Categorical Responses](https://johnpaulinepineda.github.io/Portfolio_Project_16/)
+<br><br>
+
+This presentation explores various model-independent feature importance metrics for predictors with dichotomous categorical responses. Metrics applied in the analysis to evaluate feature importance for numeric predictors included the Receiver Operating Characteristic Curve Area Under Curve, Absolute T-Test Statistic, Maximal Information Coefficient and Relief Values, while those for factor predictors included the Volcano Plot Using Fisher's Exact Test and Volcano Plot Using Gain Ratio.
+
+---
+
+[Evaluating Model-Independent Feature Importance for Predictors with Numeric Responses](https://johnpaulinepineda.github.io/Portfolio_Project_15/)
+<br><br>
+
+This presentation explores various model-independent feature importance metrics for predictors with numeric responses. Metrics applied in the analysis to evaluate feature importance for numeric predictors included the Locally Weighted Scatterplot Smoothing Pseudo-R-Squared, Pearson's Correlation Coefficient, Spearman's Rank Correlation Coefficient, Maximal Information Coefficient and Relief Values, while that for factor predictors included the Volcano Plot Using T-Test.
+
+---
+
 [Treatment Comparison Tests Between a Single Two-Level Factor Variable and a Single Numeric Response Variable](https://johnpaulinepineda.github.io/Portfolio_Project_3/)
 <br><br>
 This project explores the various methods in comparatively evaluating the numeric response data between two treatment groups in a clinical trial. Statistical tests applied in the analysis included the Student’s T-Test, Welch T-Test, Wilcoxon Rank-Sum Test and Robust Rank-Order Test.
