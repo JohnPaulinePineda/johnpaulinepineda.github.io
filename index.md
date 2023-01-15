@@ -76,6 +76,12 @@ This project implements various evaluation procedures for hyperparameter tuning 
 
 ---
 
+[Modelling Multiclass Categorical Responses for Prediction](https://johnpaulinepineda.github.io/Portfolio_Project_11/)
+<br><br>
+This project implements various predictive modelling procedures for multiclass categorical responses. Models applied in the analysis to predict multiclass categorical responses included Penalized Multinomial Regression, Linear Discriminant Analysis, Flexible Discriminant Analysis, Mixture Discriminant Analysis, Naive Bayes, Nearest Shrunken Centroids, Averaged Neural Network, Support Vector Machine (Radial Basis Function Kernel, Polynomial Kernel), K-Nearest Neighbors, Classification and Regression Trees (CART), Conditional Inference Trees, C5.0 Decision Trees, Random Forest and Bagged Trees algorithms. The resulting predictions derived from the candidate models were evaluated in terms of their classification performance using the accuracy metric.
+
+---
+
 [Modelling Dichotomous Categorical Responses for Prediction](https://johnpaulinepineda.github.io/Portfolio_Project_10/)
 <br><br>
 This project implements various predictive modelling procedures for dichotomous categorical responses. Models applied in the analysis to predict dichotomous categorical responses included Logistic Regression, Linear Discriminant Analysis, Flexible Discriminant Analysis, Mixture Discriminant Analysis, Naive Bayes, Nearest Shrunken Centroids, Averaged Neural Network, Support Vector Machine (Radial Basis Function Kernel, Polynomial Kernel), K-Nearest Neighbors, Classification and Regression Trees (CART), Conditional Inference Trees, C5.0 Decision Trees, Random Forest and Bagged Trees algorithms. The resulting predictions derived from the candidate models were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric.
