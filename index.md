@@ -70,6 +70,12 @@ This project explores the various remedial procedures for handling imbalanced da
 
 ---
 
+[Evaluating Hyperparameter Tuning Strategies and Resampling Distributions](https://johnpaulinepineda.github.io/Portfolio_Project_12/)
+<br><br>
+This project explores the various evaluation procedures for hyperparameter tuning strategies and resampling distributions. Using Support Vector Machine and Regularized Discriminant Analysis model structures, methods applied in the analysis to implement and visualize hyperparameter tuning included the Manual Grid Search, Automated Grid Search and Automated Random Search. The resulting predictions derived from the candidate models applying various hyperparameter tuning strategies were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric.
+
+---
+
 [Treatment Comparison Tests Between a Single Two-Level Factor Variable and a Single Numeric Response Variable](https://johnpaulinepineda.github.io/Portfolio_Project_3/)
 <br><br>
 This project explores the various methods in comparatively evaluating the numeric response data between two treatment groups in a clinical trial. Statistical tests applied in the analysis included the Student’s T-Test, Welch T-Test, Wilcoxon Rank-Sum Test and Robust Rank-Order Test.
