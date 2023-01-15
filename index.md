@@ -24,7 +24,7 @@ This project explores the various dimensionality reduction algorithms for extrac
 
 [Remedial Procedures for Skewed Data with Extreme Outliers](https://johnpaulinepineda.github.io/Portfolio_Project_20/)
 <br><br>
-This project explores the various remedial procedures for handling skewed data with extreme outliers for classification. Using a Logistic Regression model structure, methods applied in the analysis to address data distribution skewness and outlying points included the Box-Cox Transformation, Yeo-Johnson Transformation, Exponential Transformation, Inverse Hyperbolic Sine Transformation, Base-10 Logarithm Transformation, Natural Logarithm Transformation, Square Root Transformation, Outlier Winsorization Treatment and Outlier Spatial Sign Treatment. The resulting predictions derived from the candidate models applying various remedial procedures were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to that of the baseline model which made use of data without any form of data trasnformation and treatment.
+This project explores the various remedial procedures for handling skewed data with extreme outliers for classification. Using a Logistic Regression model structure, methods applied in the analysis to address data distribution skewness and outlying points included the Box-Cox Transformation, Yeo-Johnson Transformation, Exponential Transformation, Inverse Hyperbolic Sine Transformation, Base-10 Logarithm Transformation, Natural Logarithm Transformation, Square Root Transformation, Outlier Winsorization Treatment and Outlier Spatial Sign Treatment. The resulting predictions derived from the candidate models applying various remedial procedures were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to that of the baseline model which made use of data without any form of data transformation and treatment.
 
 ---
 
@@ -55,6 +55,18 @@ This presentation explores various model-independent feature importance metrics 
 [Evaluating Model-Independent Feature Importance for Predictors with Numeric Responses](https://johnpaulinepineda.github.io/Portfolio_Project_15/)
 <br><br>
 This presentation explores various model-independent feature importance metrics for predictors with numeric responses. Metrics applied in the analysis to evaluate feature importance for numeric predictors included the Locally Weighted Scatterplot Smoothing Pseudo-R-Squared, Pearson's Correlation Coefficient, Spearman's Rank Correlation Coefficient, Maximal Information Coefficient and Relief Values, while that for factor predictors included the Volcano Plot Using T-Test.
+
+---
+
+[Cost-Sensitive Learning for Severe Class Imbalance](https://johnpaulinepineda.github.io/Portfolio_Project_14/)
+<br><br>
+This project explores the various cost-sensitive procedures for handling imbalanced data for classification. Methods applied in the analysis to address imbalanced data included model structures which supports cost-sensitive learning, namely Class-Weighted Support Vector Machine, Cost-Sensitive Classification and Regression Trees and Cost-Sensitive C5.0 Decision Trees. The resulting predictions derived from the candidate models were evaluated in terms of their discrimination power on the minority class using the specificity metric. The specificity values were compared to those of the baseline models without cost-sensitive learning.
+
+---
+
+[Remedial Procedures in Handling Imbalanced Data for Classification](https://johnpaulinepineda.github.io/Portfolio_Project_13/)
+<br><br>
+This project explores the various remedial procedures for handling imbalanced data for classification. Using a Bagged Trees model structure, methods applied in the analysis to address imbalanced data included the Random Undersampling, Random Oversampling, Synthetic Minority Oversampling Technique and Random Oversampling Examples. All procedures were implemented both within and independent to the model internal validation process. The resulting predictions derived from the candidate models applying various remedial procedures were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to that of the baseline model without any form of data imbalance treatment.
 
 ---
 
