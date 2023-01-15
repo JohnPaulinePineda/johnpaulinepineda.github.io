@@ -72,7 +72,7 @@ This project explores the various remedial procedures for handling imbalanced da
 
 [Evaluating Hyperparameter Tuning Strategies and Resampling Distributions](https://johnpaulinepineda.github.io/Portfolio_Project_12/)
 <br><br>
-This project implements various hyperparameter tuning strategies and resampling distributions. Using Support Vector Machine and Regularized Discriminant Analysis model structures, methods applied in the analysis to implement and visualize hyperparameter tuning included the Manual Grid Search, Automated Grid Search and Automated Random Search. The resulting predictions derived from the candidate models applying various hyperparameter tuning procedures were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric.
+This project implements various evaluation procedures for hyperparameter tuning strategies and resampling distributions. Using Support Vector Machine and Regularized Discriminant Analysis model structures, methods applied in the analysis to implement hyperparameter tuning included the Manual Grid Search, Automated Grid Search and Automated Random Search with the hyperparameter selection process for each illustrated. The resulting predictions derived from the candidate models applying various hyperparameter tuning procedures were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric.
 
 ---
 
