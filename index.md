@@ -36,7 +36,7 @@ This project implements Simulated Annealing and Genetic Algorithms in selecting 
 
 [Selecting Informative Predictors Using Univariate Filters](https://johnpaulinepineda.github.io/Portfolio_Project_18/)
 <br><br>
-This project implements Univariate Filters in selecting informative predictors for a modelling problem. Using the Linear Discriminant Analysis, Random Forest and Naive Bayes model structures, feature selection methods applied in the analysis included the P-Value Threshold with Bonferroni Correction and Correlation Cutoff. The resulting predictions derived from the candidate models applying various univariate filters were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to those of the baseline models which made use of the full data without any form of feature selection.
+This project implements Univariate Filters in selecting informative predictors for a modelling problem. Using the Linear Discriminant Analysis, Random Forest and Naive Bayes model structures, feature selection methods applied in the analysis included the P-Value Threshold with Bonferroni Correction and Correlation Cutoff. The resulting predictions derived from the candidate models applying various Univariate Filters were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to those of the baseline models which made use of the full data without any form of feature selection, or implemented a model-specific feature selection process.
 
 ---
 
@@ -48,7 +48,7 @@ This project implements Recursive Feature Elimination in selecting informative p
 
 [Evaluating Model-Independent Feature Importance for Predictors with Dichotomous Categorical Responses](https://johnpaulinepineda.github.io/Portfolio_Project_16/)
 <br><br>
-This project explores various model-independent feature importance metrics for predictors with dichotomous categorical responses. Metrics applied in the analysis to evaluate feature importance for numeric predictors included the Receiver Operating Characteristic Curve Area Under Curve, Absolute T-Test Statistic, Maximal Information Coefficient and Relief Values, while those for factor predictors included the Volcano Plot Using Fisher's Exact Test and Volcano Plot Using Gain Ratio.
+This project explores various model-independent feature importance metrics for predictors with dichotomous categorical responses. Metrics applied in the analysis to evaluate feature importance for numeric predictors included the Receiver Operating Characteristic (ROC) Curve Area Under the Curve (AUC), Absolute T-Test Statistic, Maximal Information Coefficient and Relief Values, while those for factor predictors included the Volcano Plot Using Fisher's Exact Test and Volcano Plot Using Gain Ratio.
 
 ---
 
@@ -60,13 +60,13 @@ This project explores various model-independent feature importance metrics for p
 
 [Cost-Sensitive Learning for Severe Class Imbalance](https://johnpaulinepineda.github.io/Portfolio_Project_14/)
 <br><br>
-This project explores the various cost-sensitive procedures for handling imbalanced data for classification. Methods applied in the analysis to address imbalanced data included model structures which supports cost-sensitive learning, namely Class-Weighted Support Vector Machine, Cost-Sensitive Classification and Regression Trees and Cost-Sensitive C5.0 Decision Trees. The resulting predictions derived from the candidate models were evaluated in terms of their discrimination power on the minority class using the specificity metric. The specificity values were compared to those of the baseline models without cost-sensitive learning.
+This project explores the various cost-sensitive procedures for handling imbalanced data for classification. Methods applied in the analysis to address imbalanced data included model structures which support cost-sensitive learning, namely Class-Weighted Support Vector Machine, Cost-Sensitive Classification and Regression Trees and Cost-Sensitive C5.0 Decision Trees. The resulting predictions derived from the candidate models were evaluated in terms of their discrimination power on the minority class using the specificity metric. The specificity values were compared to those of the baseline models without cost-sensitive learning applied.
 
 ---
 
 [Remedial Procedures in Handling Imbalanced Data for Classification](https://johnpaulinepineda.github.io/Portfolio_Project_13/)
 <br><br>
-This project explores the various remedial procedures for handling imbalanced data for classification. Using a Bagged Trees model structure, methods applied in the analysis to address imbalanced data included the Random Undersampling, Random Oversampling, Synthetic Minority Oversampling Technique and Random Oversampling Examples. All procedures were implemented both within and independent to the model internal validation process. The resulting predictions derived from the candidate models applying various remedial procedures were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to that of the baseline model without any form of data imbalance treatment.
+This project explores the various remedial procedures for handling imbalanced data for classification. Using a Bagged Trees model structure, methods applied in the analysis to address imbalanced data included the Random Undersampling, Random Oversampling, Synthetic Minority Oversampling Technique (SMOTE) and Random Oversampling Examples (ROSE). All procedures were implemented both within and independent to the model internal validation process. The resulting predictions derived from the candidate models applying various remedial procedures were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to that of the baseline model without any form of data imbalance treatment.
 
 ---
 
@@ -102,13 +102,13 @@ This project explores the various methods in comparatively evaluating the numeri
 
 [Data Quality Assessment, Preprocessing and Exploration for a Regression Modelling Problem](https://johnpaulinepineda.github.io/Portfolio_Project_2/)
 <br><br>
-This project explores the various methods in assessing data quality, implementing data preprocessing and conducting exploratory analysis for prediction problems with numeric responses. Remedial procedures addressing data quality issues including missing data, extreme outlying points, near-zero variance, multicollinearity and skewed distributions were evaluated.
+This project explores the various methods in assessing data quality, implementing data preprocessing and conducting exploratory analysis for prediction problems with numeric responses. A non-exhaustive list of methods to detect missing data, extreme outlying points, near-zero variance, multicollinearity, linear dependencies and skewed distributions were evaluated. Remedial procedures on addressing data quality issues including missing data imputation, centering and scaling transformation, shape transformation and outlier treatment were similarly considered, as applicable.
 
 ---
 
 [Data Quality Assessment, Preprocessing and Exploration for a Classification Modelling Problem](https://johnpaulinepineda.github.io/Portfolio_Project_1/)
 <br><br>
-This project explores the various methods in assessing data quality, implementing data preprocessing and conducting exploratory analysis for prediction problems with categorical responses. Remedial procedures addressing data quality issues including missing data, extreme outlying points, near-zero variance, multicollinearity and skewed distributions were evaluated.
+This project explores the various methods in assessing data quality, implementing data preprocessing and conducting exploratory analysis for prediction problems with categorical responses. A non-exhaustive list of methods to detect missing data, extreme outlying points, near-zero variance, multicollinearity, linear dependencies and skewed distributions were evaluated. Remedial procedures on addressing data quality issues including missing data imputation, centering and scaling transformation, shape transformation and outlier treatment were similarly considered, as applicable.
 
 ---
 
