@@ -94,6 +94,12 @@ This project implements various predictive modelling procedures for numeric resp
 
 ---
 
+[Resampling Procedures for Model Hyperparameter Tuning and Internal Validation](https://johnpaulinepineda.github.io/Portfolio_Project_8/)
+<br><br>
+This project explores various resampling procedures during model hyperparameter tuning and internal validation. Using a Recursive Partitioning and Regression Trees model structure, resampling methods applied in the analysis for tuning model hyperparameters and internally validating model performance included K-Fold Cross Validation, Repeated K-Fold Cross Validation, Leave-One-Out Cross Validation, Leave-Group-Out Cross Validation, Bootstrap Validation, Bootstrap 0.632 Validation and Bootstrap with Optimism-Estimation Validation. The resulting predictions derived from the candidate models with their respective optimal hyperparameters were evaluated in terms of their classification performance using the accuracy metric, which were subsequently compared to the baseline model's apparent performance values. 
+
+---
+
 [Treatment Comparison Tests Between a Single Two-Level Factor Variable and a Single Numeric Response Variable](https://johnpaulinepineda.github.io/Portfolio_Project_3/)
 <br><br>
 This project explores the various methods in comparatively evaluating the numeric response data between two treatment groups in a clinical trial. Statistical tests applied in the analysis included the Student’s T-Test, Welch T-Test, Wilcoxon Rank-Sum Test and Robust Rank-Order Test.
