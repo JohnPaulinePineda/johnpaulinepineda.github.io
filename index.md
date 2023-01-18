@@ -100,6 +100,12 @@ This project explores various resampling procedures during model hyperparameter 
 
 ---
 
+[Missing Data Pattern Analysis, Imputation Method Evaluation and Post-Imputation Diagnostics](https://johnpaulinepineda.github.io/Portfolio_Project_6/)
+<br><br>
+This project explores various analysis and imputation procedures for incomplete data. Missing data patterns were visualized using matrix, cluster and correlation plots, with the missing data mechanism evaluated using a Regression-Based Test. Methods applied in the analysis to replace missing data points with substituted values included Random Replacement, Median Imputation, Mean Imputation, Mutivariate Data Analysis Imputation (Regularized, Expectation-Maximization), Principal Component Analysis Imputation (Probabilistic Principal Component Analysis, Bayesian Principal Component Analysis, Non-Linear Iterative Partial Least Squares, Non-Linear Principal Component Analysis, Multivariate Imputation by Chained Equations, Bayesian Multiple Imputation, Expectation-Maximization with Bootstrapping, Random Forest Imputation, Multiple Imputation Using Additive Regression, Bootstrapping and Predictive Mean Matching and K-Nearest Neighbors Imputation. Missing data imputation performance was evaluated using the computation time, Root Mean Squared Error, Mean Absolute Error and Kolmogorov-Smirnov Test Statistic metrics. Post-imputation diagnostics was performed to assess the plausibility of the substituted values in comparison to the complete data.
+
+---
+
 [Survival Analysis and Descriptive Modelling for a Three-Group Right-Censored Data with Time-Independent Variables Using Cox Proportional Hazards Model](https://johnpaulinepineda.github.io/Portfolio_Project_5/)
 <br><br>
 This project implements the survival analysis and descriptive modelling steps for a three-group right-censored data with time-independent variables using the Cox Proportional Hazards Model. The Kaplan-Meier Survival Curves and Log-Rank Test were applied during the differential analysis of the survival data between groups. All predictors' prognostic significance were individually and simultaneously evaluated using Univariate and Multivariate Cox Proportional Hazards Models, respectively. The discrimination power of the resulting models were assessed using the Harrel's Concordance Index. The final prognostic model was internally validated using Bootstrap Validation with Optimism Estimation and evaluated for compliance on all required model assumptions using the appropriate diagnostics.
