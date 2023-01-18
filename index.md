@@ -100,6 +100,12 @@ This project explores various resampling procedures during model hyperparameter 
 
 ---
 
+[Clinical Research Prediction Model Development and Evaluation for Prognosis](https://johnpaulinepineda.github.io/Portfolio_Project_7/)
+<br><br>
+This project explores the best practices when developing and evaluating prognostic models for clinical research. The general requirements for the clinical study were defined including the formulation of the research question, intended application, outcome, predictors, study design, statistical model and sample size computation. The individual steps involved in model development were presented including the data quality assessment, predictor coding, data preprocessing, as well as the specification, selection, performance estimation and performance validation of the model used in the study. Additional details on model validity evaluation was also provided.  
+
+---
+
 [Missing Data Pattern Analysis, Imputation Method Evaluation and Post-Imputation Diagnostics](https://johnpaulinepineda.github.io/Portfolio_Project_6/)
 <br><br>
 This project explores various analysis and imputation procedures for incomplete data. Missing data patterns were visualized using matrix, cluster and correlation plots, with the missing data mechanism evaluated using a Regression-Based Test. Methods applied in the analysis to replace missing data points with substituted values included Random Replacement, Median Imputation, Mean Imputation, Mutivariate Data Analysis Imputation (Regularized, Expectation-Maximization), Principal Component Analysis Imputation (Probabilistic, Bayesian, Support Vector Machine-Based, Non-Linear Iterative Partial Least Squares, Non-Linear Principal Component Analysis), Multivariate Imputation by Chained Equations, Bayesian Multiple Imputation, Expectation-Maximization with Bootstrapping, Random Forest Imputation, Multiple Imputation Using Additive Regression, Bootstrapping and Predictive Mean Matching and K-Nearest Neighbors Imputation. Performance of the missing data imputation methods was evaluated using the Processing Time, Root Mean Squared Error, Mean Absolute Error and Kolmogorov-Smirnov Test Statistic metrics. Post-imputation diagnostics was performed to assess the plausibility of the substituted values in comparison to the complete data.
