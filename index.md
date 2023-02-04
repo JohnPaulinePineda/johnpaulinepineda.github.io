@@ -4,6 +4,11 @@
 
 ### R Projects
 
+[Exploring Dichotomization Thresholding Strategies for Optimal Classification](https://johnpaulinepineda.github.io/Portfolio_Project_24/)
+<br><br>
+This project explores the various dichotomization thresholding strategies for optimally classifying categorical responses. Using a Logistic Regression model structure, threshold criteria applied in the analysis to support optimal class prediction included Minimum Sensitivity, Mininum Specificity, Maximum Product of Specificity and Sensitivity, ROC Curve Point Closest to Point (0,1), Sensitivity Equals Specificity, Youden's Index, Maximum Efficiency, Minimization of Most Frequent Error, Maximum Diagnostic Odds Ratio, Maximum Kappa, Minimum Negative Predictive Value, Minimum Positive Predictive Value, Negative Predictive Value Equals Positive Predictive Value, Minimum P-Value and ROC Curve Point Closest to Observed Prevalence. The optimal thresholds determined for each criterion were compared and evaluated in terms of their relevance to the sensitivity and specificity objectives of the classification problem at hand.
+
+---
 [Implementing Gradient Descent Algorithm in Estimating Regression Coefficients](https://johnpaulinepineda.github.io/Portfolio_Project_23/)
 <br><br>
 This project manually implements the Gradient Descent algorithm and evaluates a range of values for the learning rate and epoch count parameters to optimally estimate the coefficients of a linear regression model. The cost function optimization profiles of the different candidate parameter settings were compared, with the resulting estimated coefficients assessed against those obtained using normal equations which served as the reference baseline values.
