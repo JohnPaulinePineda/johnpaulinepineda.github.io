@@ -8,6 +8,8 @@
 <br><br>
 This project explores the various isolation tree-based anomaly detection algorithms for estimating outlier scores. Methods applied in the analysis to identify abnormal points with patterns significantly deviating away from the remaining data included the Isolation Forest, Extended Isolation Forest, Isolation Forest with Split Selection Criterion, Fair-Cut Forest, Density Isolation Forest and Boxed Isolation Forest algorithms. Using an independent label indicating the valid and outlying points from the data, the different anomaly-detection algorithms were evaluated based on their capability to effectively discriminate both data categories using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric.
 
+---
+
 [Identifying Multivariate Outliers Using Density-Based Clustering Algorithms](https://johnpaulinepineda.github.io/Portfolio_Project_25/)
 <br><br>
 This project explores the various density-based clustering algorithms for identifying multivariate outliers. Methods applied in the analysis to cluster points and detect outliers from high dimensional data included the Density-Based Spatial Clustering of Applications with Noise, Hierarchical Density-Based Spatial Clustering of Applications with Noise, Ordering Points to Identify the Clustering Structure, Jarvis-Patrick Clustering and Shared Nearest Neighbor Clustering algorithms. The different clustering algorithms were subjectively evaluated based on their capability to effectively capture the latent characteristics between the different resulting clusters. In addition, the values for the outlier detection rate and Rand index obtained for each algorithm were also assessed for an objective comparison of their clustering performance.
