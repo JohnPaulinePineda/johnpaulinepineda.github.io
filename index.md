@@ -4,11 +4,18 @@
 
 ### R Projects
 
+[Exploring Robust Logistic Regression Models for Handling Quasi-Complete Separation](https://johnpaulinepineda.github.io/Portfolio_Project_28/)
+<br><br>
+This project explores the various robust alternatives for handling quasi-complete separation during logistic regression modelling. Methods applied in the analysis to evaluate a quasi-complete condition when a covariate almost perfectly predicts the outcome included the Firth's Bias-Reduced Logistic Regression, Firth's Logistic Regression With Added Covariate, Firth's Logistic Regression With Intercept Correction, Bayesian Generalized Linear Model With Cauchy Priors and Ridge-Penalized Logistic Regression algorithms. The resulting predictions derived from the candidate models were evaluated in terms of the stability of their coefficient estimates and standard errors, including the validity of their logistic profiles and the distribution of their predicted points, which were all compared to that of the baseline model without any form of quasi-complete separation treatment.
+
+---
+
 [Estimating Outlier Scores Using Density and Distance-Based Anomaly Detection Algorithms](https://johnpaulinepineda.github.io/Portfolio_Project_27/)
 <br><br>
 This project explores the various density and distance-based anomaly detection algorithms for estimating outlier scores. Methods applied in the analysis to identify abnormal points with patterns significantly deviating away from the remaining data included the Connectivity-Based Outlier Factor, Distance-Based Outlier Detection, Influenced Outlierness, Kernel-Density Estimation Outlier Score, Aggregated K-Nearest Neighbors Distance, In-Degree for Observations in a K-Nearest Neighbors Graph, Sum of Distance to K-Nearest Neighbors, Local Density Factor, Local Distance-Based Outlier Factor, Local Correlation Integral, Local Outlier Factor and Natural Outlier Factor algorithms. Using an independent label indicating the valid and outlying points from the data, the different anomaly-detection algorithms were evaluated based on their capability to effectively discriminate both data categories using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric.
 
 ---
+
 [Estimating Outlier Scores Using Isolation Forest-Based Anomaly Detection Algorithms](https://johnpaulinepineda.github.io/Portfolio_Project_26/)
 <br><br>
 This project explores the various isolation forest-based anomaly detection algorithms for estimating outlier scores. Methods applied in the analysis to identify abnormal points with patterns significantly deviating away from the remaining data included the Isolation Forest, Extended Isolation Forest, Isolation Forest with Split Selection Criterion, Fair-Cut Forest, Density Isolation Forest and Boxed Isolation Forest algorithms. Using an independent label indicating the valid and outlying points from the data, the different anomaly-detection algorithms were evaluated based on their capability to effectively discriminate both data categories using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric.
