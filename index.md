@@ -2,7 +2,7 @@
 
 ---
 
-### R Projects
+### Exploratory Analysis and Modeling Projects
 
 [Exploring Robust Logistic Regression Models for Handling Quasi-Complete Separation](https://johnpaulinepineda.github.io/Portfolio_Project_28/)
 <br><br>
