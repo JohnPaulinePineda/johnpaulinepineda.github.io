@@ -174,7 +174,7 @@ This project explores the various methods in assessing data quality, implementin
 
 ### Visual Analytics Projects
 
-[Tableau : How Globally Innovative Is Your Economy?]([https://johnpaulinepineda.github.io/Portfolio_Project_28/](https://public.tableau.com/app/profile/john.pauline.pineda/viz/HowGloballyInnovativeIsYourEconomy/DashboardProject)
+[Tableau : How Globally Innovative Is Your Economy?](https://public.tableau.com/app/profile/john.pauline.pineda/viz/HowGloballyInnovativeIsYourEconomy/DashboardProject)
 <br><br>
 This project enables an exploratory and comparative analysis of global innovation indices and their associated pillars across world economies. Visualization techniques applied in the formulated dashboard included a map chart to investigate for geographic clustering between high- and low-performing countries; a scatterplot to  study the association between innovation indices and economic indicators; and a boxplot to obtain perspectives on the performance of economies across the seven innovation pillars from where the index was derived from. Filtering features applied included a subset analysis based on world region and income level categories, as well as, individual, pairwise and group analyses for, between and across economies.
 
