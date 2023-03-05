@@ -174,9 +174,9 @@ This project explores the various methods in assessing data quality, implementin
 
 ### Visual Analytics Projects
 
-[Tableau : Dashboard Development with Slice-and-Dice Exploration Features](https://public.tableau.com/app/profile/john.pauline.pineda/viz/HowGloballyInnovativeIsYourEconomy/DashboardProject)
+[Tableau : Dashboard Development with Slice-and-Dice Exploration Features](https://public.tableau.com/app/profile/john.pauline.pineda/viz/SuperstoreBusinessAnalysisDashboard/BusinessDashboard)
 <br><br>
-This project enables an exploratory and comparative analysis of global innovation indices and their associated pillars across world economies. Visualization techniques applied in the formulated dashboard included a map chart to investigate for geographic clustering between high- and low-performing countries; a scatterplot to  study the association between innovation indices and economic indicators; and a boxplot to obtain perspectives on the performance of economies across the seven innovation pillars from where the index was derived from. Filtering features applied included a subset analysis based on world region and income level categories, as well as, individual, pairwise and group analyses for, between and across economies.
+This project enables the exploratory and comparative analyses of business indices across product categories and market locations. Visualization techniques applied in the formulated dashboard included honeycomb map charts to investigate for geographic clustering between high- and low-performing locations; sparkline charts to  study the general trend of the business metrics over time; and bar charts to obtain perspectives on the performance across the various business components. Filtering features applied included a subset analysis based on region and states.
 
 ---
 
