@@ -176,7 +176,7 @@ This project explores the various methods in assessing data quality, implementin
 
 [Tableau : Dashboard Development with Slice-and-Dice Exploration Features](https://public.tableau.com/app/profile/john.pauline.pineda/viz/SuperstoreBusinessAnalysisDashboard/BusinessDashboard)
 <br><br>
-This project enables the exploratory and comparative analyses of business indices across product categories and market locations. Visualization techniques applied in the formulated dashboard included honeycomb map charts to investigate for geographic clustering between high- and low-performing locations; sparkline charts to  study the general trend of the business metrics over time; and bar charts to obtain perspectives on the performance across the various business components. Filtering features applied included a subset analysis based on region and states.
+This project enables the exploratory and comparative analyses of business indices across product categories and market locations using the Superstore Dataset. Visualization techniques applied in the formulated dashboard included honeycomb map charts to investigate for geographic clustering between high- and low-performing locations; sparkline charts to  study the general trend of the business metrics over time; and bar charts to obtain perspectives on the performance across the various business components. Filtering features applied included a subset analysis based on regions and states.
 
 ---
 
