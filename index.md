@@ -4,7 +4,7 @@
 
 ### Machine Learning Projects
 
-[Exploring Performance Evaluation Metrics for Survival Prediction](https://johnpaulinepineda.github.io/Portfolio_Project_29/)
+[R : Exploring Performance Evaluation Metrics for Survival Prediction](https://johnpaulinepineda.github.io/Portfolio_Project_29/)
 <br><br>
 This project explores the various performance metrics which are adaptable to censoring conditions for evaluating survival prediction. Using the Survival Random Forest and Cox Proportional Hazards Regression model structures, metrics applied in the analysis to estimate the generalization performance of survival models on out-of-sample data included the Concordance Index, Brier Score, Integrated Absolute Error and Integrated Square Error. The resulting measures derived from the metrics were evaluated in terms of their performance consistency across the candidate models. Considering the differences in their intended applications and current data restrictions, a comparison of each metric's strengths and limitations were briefly discussed.
 
