@@ -4,6 +4,12 @@
 
 ### Machine Learning Projects
 
+[Exploring Performance Evaluation Metrics for Survival Prediction](https://johnpaulinepineda.github.io/Portfolio_Project_29/)
+<br><br>
+This project explores the various performance metrics which are adaptable to censoring conditions for evaluating survival prediction. Using the Survival Random Forest and Cox Proportional Hazards Regression model structures, metrics applied in the analysis to estimate the generalization performance of survival models on out-of-sample data included the Concordance Index, Brier Score, Integrated Absolute Error and Integrated Square Error. The resulting measures derived from the metrics were evaluated in terms of their performance consistency across the candidate models. Considering the differences in their intended applications and current data restrictions, a comparison of each metric's strengths and limitations were briefly discussed.
+
+---
+
 [R : Exploring Robust Logistic Regression Models for Handling Quasi-Complete Separation](https://johnpaulinepineda.github.io/Portfolio_Project_28/)
 <br><br>
 This project explores the various robust alternatives for handling quasi-complete separation during logistic regression modelling. Methods applied in the analysis to evaluate a quasi-complete condition when a covariate almost perfectly predicts the outcome included the Firth's Bias-Reduced Logistic Regression, Firth's Logistic Regression With Added Covariate, Firth's Logistic Regression With Intercept Correction, Bayesian Generalized Linear Model With Cauchy Priors and Ridge-Penalized Logistic Regression algorithms. The resulting predictions derived from the candidate models were evaluated in terms of the stability of their coefficient estimates and standard errors, including the validity of their logistic profiles and the distribution of their predicted points, which were all compared to that of the baseline model without any form of quasi-complete separation treatment.
