@@ -186,7 +186,7 @@ This project enables the exploratory and comparative analyses of business indice
 
 ---
 
-[Tableau : Dashboard Development with Dynamic Filtering Features](https://public.tableau.com/app/profile/john.pauline.pineda/viz/IBMHRAttritionAnalysisDashboard/AttritionDashboard))
+[Tableau : Dashboard Development with Dynamic Filtering Features](https://public.tableau.com/app/profile/john.pauline.pineda/viz/IBMHRAttritionAnalysisDashboard/AttritionDashboard)
 <br><br>
 This project enables the exploratory and comparative analyses of attrition rates across employee and job profile categories using the Kaggle IBM HR Dataset. Visualization techniques applied in the formulated dashboard included bar and figure charts to investigate the proportions of employees who have left the company in reference to those who stayed. A dynamic filtering feature was applied which allows for the simultaneous subset analyses across all dashboard data components including gender, marital status, age group, education level, field specialization, department, job role, business travel, training, years at company, years in current role, years since last promotion and years with current manager.
 
