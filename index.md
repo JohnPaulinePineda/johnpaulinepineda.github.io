@@ -192,6 +192,12 @@ This project enables the exploratory and comparative analyses of attrition rates
 
 ---
 
+[Tableau : Dashboard Development with Longitudinal Change Tracking Features](https://public.tableau.com/app/profile/john.pauline.pineda/viz/CrunchbaseCompanyFundRaisingTrendDashboard/PeriodicalChangeTrackingDashboard)
+<br><br>
+This project enables the exploratory and comparative analyses of company fund-raising periodical performance across round types and market segments using the Tableau Public Crunchbase Dataset. Visualization techniques applied in the formulated dashboard included bar charts to benchmark the number of fundings of the current period as compared to the previous period. Sparkline charts were used to display the funding count trend over the entire time range. Bar charts and markers were utilized to highlight significant changes between adjacent periods. A longitudinal change tracking feature was applied using a slider filter which allows for the periodical subset analyses across all dashboard components.  
+
+---
+
 ### Scientific Research Papers
 
 [High Diagnostic Accuracy of Epigenetic Imprinting Biomarkers in Thyroid Nodules](https://ascopubs.org/doi/10.1200/JCO.22.00232)
