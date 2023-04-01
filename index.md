@@ -198,6 +198,12 @@ This project enables the exploratory and comparative analyses of company fund-ra
 
 ---
 
+[Tableau : Dashboard Development with What-If Scenario Analysis Features](https://public.tableau.com/app/profile/john.pauline.pineda/viz/WirelessBusinessWhat-IfAnalysisDashboard/WirelessWhatIfAnalysisDashboard)
+<br><br>
+This project enables the exploratory what-if scenario planning analyses of various business factors and conditions collectively influencing net earnings using the Kaggle Wireless Company Dataset. Visualization techniques applied in the formulated dashboard included a scatterplot to show the distribution of sales prices and gross profits prior to benchmarking actions. A bar chart was used to dynamically present the count and distribution of items based on the selected benchmark cut-offs. Gantt bar charts were utilized to compare the reference and adjusted net earning levels given the positive or negative business conditions identified. All analysis variables can be adjusted using slider and list filters which allow for the dynamic exploration of different scenarios across all dashboard components. 
+
+---
+
 ### Scientific Research Papers
 
 [High Diagnostic Accuracy of Epigenetic Imprinting Biomarkers in Thyroid Nodules](https://ascopubs.org/doi/10.1200/JCO.22.00232)
