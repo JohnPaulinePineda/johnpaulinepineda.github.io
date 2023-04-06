@@ -78,7 +78,7 @@ This project implements Univariate Filters in selecting informative predictors f
 
 [R : Selecting Informative Predictors Using Recursive Feature Elimination](https://johnpaulinepineda.github.io/Portfolio_Project_17/)
 <br><br>
-This project implements Recursive Feature Elimination in selecting informative predictors for a modelling problem using the Random Forest, Linear Discriminant Analysis, Naive Bayes, Logistic Regression and K-Nearest Neighbors model structures. The resulting predictions derived from the candidate models applying Recursive Feature Elimination were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to those of the baseline models which made use of the full data without any form of feature selection, or implemented a model-specific feature selection process.
+This project implements Recursive Feature Elimination in selecting informative predictors for a modelling problem using the Random Forest, Linear Discriminant Analysis, Naive Bayes, Logistic Regression, Support Vector Machine and K-Nearest Neighbors model structures. The resulting predictions derived from the candidate models applying Recursive Feature Elimination were evaluated in terms of their discrimination power using the receiver operating characteristic (ROC) curve area under the curve (AUC) metric. The ROC AUC values were compared to those of the baseline models which made use of the full data without any form of feature selection, or implemented a model-specific feature selection process.
 
 ---
 
