@@ -204,6 +204,12 @@ This project enables the exploratory what-if scenario planning analyses of vario
 
 ---
 
+[Tableau : Dashboard Development with Period-To-Date Performance Tracking Features](https://public.tableau.com/app/profile/john.pauline.pineda/viz/SportsStoreBusinessIndexMonitoringDashboard/RunningTotalsMonitoringDashboard)
+<br><br>
+This project enables the period-to-date performance tracking and analysis of various business indices using the Kaggle Sports Store Company Dataset. Visualization techniques applied in the formulated dashboard included line charts to demonstrate the running weekly totals of sales, profit and quantity measures for the latest quarter as compared to benchmarked periods including the previous quarter of the same year, and the same quarter from the previous year. Bar charts were used to present the consolidated quarterly indices. Additional customer and product attributes were included as drop-down list filters which allow for the periodical subset analyses across all dashboard components.
+
+---
+
 ### Scientific Research Papers
 
 [High Diagnostic Accuracy of Epigenetic Imprinting Biomarkers in Thyroid Nodules](https://ascopubs.org/doi/10.1200/JCO.22.00232)
