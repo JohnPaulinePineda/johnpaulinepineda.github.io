@@ -6,7 +6,6 @@
 
 [R | Data Preprocessing : Comparing Oversampling and Undersampling Algorithms for Class Imbalance Treatment](https://johnpaulinepineda.github.io/Portfolio_Project_30/)
 <br><br>
-
 This project explores the various oversampling and undersampling methods to address imbalanced classification problems. The algorithms applied to augment imbalanced data prior to model training by updating the original data set to minimize the effect of the disproportionate ratio of instances in each class included Near Miss, Tomek Links, Adaptive Synthetic Algorithm, Borderline Synthetic Minority Oversampling Technique, Synthetic Minority Oversampling Technique and Random Oversampling Examples. The derived class distributions were compared to the original data set and those applied with both random undersampling and oversampling methods. Using the Logistic Regression model structure, the corresponding logistic curves estimated from both the original and updated data were subjectively assessed in terms of skewness, data sparsity and class overlap. Considering the differences in their intended applications dependent on the quality and characteristics of the data being evaluated, a comparison of each method's strengths and limitations was briefly discussed.
 
 ---
