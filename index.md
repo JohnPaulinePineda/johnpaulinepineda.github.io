@@ -4,6 +4,13 @@
 
 ### Machine Learning Projects
 
+[R | Statistical Evaluation : Sample Size and Power Calculations for Tests Comparing Means in Clinical Research](https://johnpaulinepineda.github.io/Portfolio_Project_31/)
+<br><br>
+
+This project explores the various sample size and power calculations for mean comparison tests in clinical research. The important factors to be assessed prior to determining the appropriate sample sizes were evaluated for the One-Sample, Two-Sample and Multiple-Sample One-Way ANOVA Pairwise Designs. Power analyses were conducted to address the requirements across different study hypotheses including Tests of Equality, Non-Inferiority, Superiority and Equivalence.
+
+---
+
 [R | Data Preprocessing : Comparing Oversampling and Undersampling Algorithms for Class Imbalance Treatment](https://johnpaulinepineda.github.io/Portfolio_Project_30/)
 <br><br>
 This project explores the various oversampling and undersampling methods to address imbalanced classification problems. The algorithms applied to augment imbalanced data prior to model training by updating the original data set to minimize the effect of the disproportionate ratio of instances in each class included Near Miss, Tomek Links, Adaptive Synthetic Algorithm, Borderline Synthetic Minority Oversampling Technique, Synthetic Minority Oversampling Technique and Random Oversampling Examples. The derived class distributions were compared to the original data set and those applied with both random undersampling and oversampling methods. Using the Logistic Regression model structure, the corresponding logistic curves estimated from both the original and updated data were subjectively assessed in terms of skewness, data sparsity and class overlap. Considering the differences in their intended applications dependent on the quality and characteristics of the data being evaluated, a comparison of each method's strengths and limitations was briefly discussed.
