@@ -4,7 +4,6 @@
 
 ### Machine Learning Projects
 
----
 [![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#)
 
 [R | Statistical Evaluation : Sample Size and Power Calculations for Tests Comparing Proportions in Clinical Research](https://johnpaulinepineda.github.io/Portfolio_Project_32/)
