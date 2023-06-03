@@ -4,8 +4,6 @@
 
 ### Machine Learning Projects
 
----
-
 [R | Statistical Evaluation : Sample Size and Power Calculations for Tests Comparing Proportions in Clinical Research](https://johnpaulinepineda.github.io/Portfolio_Project_32/)
 <br><br>
 This project explores the various sample size and power calculations for proportion comparison tests in clinical research. The important factors to be assessed prior to determining the appropriate sample sizes were evaluated for the One-Sample, Unpaired Two-Sample, Paired Two-Sample and Multiple-Sample One-Way ANOVA Pairwise Designs. Power analyses were conducted to address the requirements across different study hypotheses including Tests of Equality, Non-Inferiority, Superiority, Equivalence and Categorical Shift.
