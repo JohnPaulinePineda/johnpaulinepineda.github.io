@@ -1,8 +1,8 @@
-## Data Science Portfolio
+## Data Science Project Portfolio
 
 ---
 
-### Machine Learning Projects
+### Machine Learning Exploratory Projects
 
 [![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#)
 
