@@ -6,6 +6,14 @@
 
 [![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#)
 
+[Supervised Learning : Exploring Penalized Models for Handling High-Dimensional Survival Data](https://johnpaulinepineda.github.io/Portfolio_Project_34/)
+<br><br>
+This project explores different regularization methods for reducing model complexity in high-dimensional survival data. Methods applied in the analysis to force the regression estimators to shrink their coefficients in order to avoid the penalty terms imposed on the coefficients included the Least Absolute Shrinkage and Selection Operator, Elastic Net, Minimax Concave Penalty, Smoothly Clipped Absolute Deviation and Fused Least Absolute Shrinkage and Selection Operator. The predictive performance for each algorithm through the time-dependent area under the receiver operating characteristic curve (AUROC) metric was evaluated using internal bootstrap and external validation methods. Model calibration was similarly assessed by plotting the predicted probabilities from the model versus actual survival probabilities. The differences in survival time for different risk groups determined from the calibration analyses were additionally examined using the  Kaplan-Meier survival curves.
+
+---
+
+[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#)
+
 [Unsupervised Learning : Exploring and Visualizing Extracted Dimensions from Principal Component Algorithms](https://johnpaulinepineda.github.io/Portfolio_Project_33/)
 <br><br>
 This project explores the various principal component-based dimensionality reduction algorithms for extracting and visualizing information. Methods applied in the analysis to transform and reduce high dimensional data included the Principal Component Analysis, Correspondence Analysis, Multiple Correspondence Analysis, Multiple Factor Analysis and Factor Analysis of Mixed Data. The algorithms were separately applied on different iterations of the original dataset as appropriate to the given method, with the correlation plots, factorial maps and biplots (as applicable) formulated for a more intuitive visualization of the extracted dimensions.
