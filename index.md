@@ -16,6 +16,14 @@ Life expectancy is a statistical measure that represents the average number of y
 
 [![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#)
 
+[Supervised Learning : Exploring Penalized Models for Handling High-Dimensional Survival Data](https://johnpaulinepineda.github.io/Portfolio_Project_36/)
+<br><br>
+This project explores different variations of the exploratory factor analysis method for discovering latent patterns in adequately correlated high-dimensional data. Methods applied in the analysis to estimate and identify potential underlying structures from observed variables included **Principal Axes Factor Extraction** and **Maximum Likelihood Factor Extraction**. The approaches used to simplify the derived factor structures to achieve a more interpretable pattern of factor loadings included **Varimax Rotation** and **Promax Rotation**. Combinations of the factor extraction and rotation methods were separately applied on the original dataset across different numbers of factors, with the model fit evaluated using the standardized root mean square of the residual, Tucker-Lewis fit index, Bayesian information criterion and high residual rate. The extracted and rotated factors were visualized using the factor loading and dandelion plots.
+
+---
+
+[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#)
+
 [Supervised Learning : Exploring Penalized Models for Handling High-Dimensional Survival Data](https://johnpaulinepineda.github.io/Portfolio_Project_34/)
 <br><br>
 This project explores different regularization methods for minimizing model complexity by promoting coefficient sparsity in high-dimensional survival data. Using a Cox Proportional Hazards Regression model structure, penalty functions applied during the coefficient estimation process included the Least Absolute Shrinkage and Selection Operator, Elastic Net, Minimax Concave Penalty, Smoothly Clipped Absolute Deviation and Fused Least Absolute Shrinkage and Selection Operator. The predictive performance for each algorithm was evaluated using the time-dependent area under the receiver operating characteristic curve (AUROC) metric through both internal bootstrap and external validation methods. Model calibration was similarly assessed by plotting the predicted probabilities from the model versus the actual survival probabilities. The differences in survival time for different risk groups determined from the calibration analyses were additionally examined using the  Kaplan-Meier survival curves.
