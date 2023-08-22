@@ -322,6 +322,8 @@ This project explores the various methods in assessing data quality, implementin
 <br><br>
 This project enables the exploratory and comparative analyses of business indices across product categories and market locations using the Superstore Dataset. Visualization techniques applied in the formulated dashboard included honeycomb map charts to investigate for geographic clustering between high- and low-performing locations; sparkline charts to  study the general trend of the business metrics over time; and bar charts to obtain perspectives on the performance across the various business components. Filtering features applied included a subset analysis based on regions and states.
 
+<img src="images/TableauDashboard_1.png?raw=true"/>
+
 ---
 
 [![](https://img.shields.io/badge/Tableau-black?logo=Tableau)](#)
@@ -329,6 +331,8 @@ This project enables the exploratory and comparative analyses of business indice
 [Data Visualization : Dashboard Development with Dynamic Filtering Features](https://public.tableau.com/app/profile/john.pauline.pineda/viz/IBMHRAttritionAnalysisDashboard/AttritionDashboard)
 <br><br>
 This project enables the exploratory and comparative analyses of attrition rates across employee and job profile categories using the Kaggle IBM HR Dataset. Visualization techniques applied in the formulated dashboard included bar and figure charts to investigate the proportions of employees who have left the company in reference to those who stayed. A dynamic filtering feature was applied which allows for the simultaneous subset analyses across all dashboard data components including gender, marital status, age group, education level, field specialization, department, job role, business travel, training, years at company, years in current role, years since last promotion and years with current manager.
+
+<img src="images/TableauDashboard_2.png?raw=true"/>
 
 ---
 
@@ -338,6 +342,8 @@ This project enables the exploratory and comparative analyses of attrition rates
 <br><br>
 This project enables the exploratory and comparative analyses of company fund-raising periodical performance across round types and market segments using the Tableau Public Crunchbase Dataset. Visualization techniques applied in the formulated dashboard included bar charts to benchmark the number of fundings of the current period as compared to the previous period. Sparkline charts were used to display the funding count trend over the entire time range. Bar charts and markers were utilized to highlight significant changes between adjacent periods. A longitudinal change tracking feature was applied using a slider filter which allows for the periodical subset analyses across all dashboard components.  
 
+<img src="images/TableauDashboard_3.png?raw=true"/>
+
 ---
 
 [![](https://img.shields.io/badge/Tableau-black?logo=Tableau)](#)
@@ -346,6 +352,8 @@ This project enables the exploratory and comparative analyses of company fund-ra
 <br><br>
 This project enables the exploratory what-if scenario planning analyses of various business factors and conditions collectively influencing net earnings using the Kaggle Wireless Company Dataset. Visualization techniques applied in the formulated dashboard included a scatterplot to show the distribution of sales prices and gross profits prior to benchmarking actions. A bar chart was used to dynamically present the count and distribution of items based on the selected benchmark cut-offs. Gantt bar charts were utilized to compare the reference and adjusted net earning levels given the positive or negative business conditions identified. All analysis variables can be adjusted using slider and list filters which allow for the dynamic exploration of different scenarios across all dashboard components. 
 
+<img src="images/TableauDashboard_4.png?raw=true"/>
+
 ---
 
 [![](https://img.shields.io/badge/Tableau-black?logo=Tableau)](#)
@@ -353,6 +361,8 @@ This project enables the exploratory what-if scenario planning analyses of vario
 [Data Visualization : Dashboard Development with Period-To-Date Performance Tracking Features](https://public.tableau.com/app/profile/john.pauline.pineda/viz/SportsStoreBusinessIndexMonitoringDashboard/RunningTotalsMonitoringDashboard)
 <br><br>
 This project enables the period-to-date performance tracking and analysis of various business indices using the Kaggle Sports Store Company Dataset. Visualization techniques applied in the formulated dashboard included line charts to demonstrate the running weekly totals of sales, profit and quantity measures for the latest quarter as compared to benchmarked periods including the previous quarter of the same year, and the same quarter from the previous year. Bar charts were used to present the consolidated quarterly indices. Additional customer and product attributes were included as drop-down list filters which allow for the periodical subset analyses across all dashboard components.
+
+<img src="images/TableauDashboard_5.png?raw=true"/>
 
 ---
 
