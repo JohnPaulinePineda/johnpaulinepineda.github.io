@@ -12,15 +12,15 @@ Life expectancy is a statistical measure that represents the average number of y
 
 <img src="images/CaseStudy1_Summary_1.png?raw=true"/>
 
-<img src="images/CaseStudy2_Summary_1.png?raw=true"/>
+<img src="images/CaseStudy1_Summary_2.png?raw=true"/>
 
-<img src="images/CaseStudy3_Summary_1.png?raw=true"/>
+<img src="images/CaseStudy1_Summary_3.png?raw=true"/>
 
-<img src="images/CaseStudy4_Summary_1.png?raw=true"/>
+<img src="images/CaseStudy1_Summary_4.png?raw=true"/>
 
-<img src="images/CaseStudy5_Summary_1.png?raw=true"/>
+<img src="images/CaseStudy1_Summary_5.png?raw=true"/>
 
-<img src="images/CaseStudy6_Summary_1.png?raw=true"/>
+<img src="images/CaseStudy1_Summary_6.png?raw=true"/>
 
 ---
 
