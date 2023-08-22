@@ -20,6 +20,8 @@ Life expectancy is a statistical measure that represents the average number of y
 
 <img src="images/Summary_5.png?raw=true"/>
 
+<img src="images/Summary_6.png?raw=true"/>
+
 ---
 
 ### Machine Learning Exploratory Projects
