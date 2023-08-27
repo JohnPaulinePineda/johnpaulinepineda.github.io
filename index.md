@@ -162,6 +162,8 @@ This project explores the various dichotomization thresholding strategies for op
 <br><br>
 This project manually implements the Gradient Descent algorithm and evaluates a range of values for the learning rate and epoch count parameters to optimally estimate the coefficients of a linear regression model. The cost function optimization profiles of the different candidate parameter settings were compared, with the resulting estimated coefficients assessed against those obtained using normal equations which served as the reference baseline values.
 
+<img src="images/Project23_Summary.png?raw=true"/>
+
 ---
 
 [![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#)
