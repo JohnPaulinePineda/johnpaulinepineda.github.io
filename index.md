@@ -282,6 +282,8 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_12/) implem
 <br><br>
 This [project](https://johnpaulinepineda.github.io/Portfolio_Project_11/) implements various predictive modelling procedures for multiclass categorical responses. Models applied in the analysis to predict multiclass categorical responses included the Penalized Multinomial Regression, Linear Discriminant Analysis, Flexible Discriminant Analysis, Mixture Discriminant Analysis, Naive Bayes, Nearest Shrunken Centroids, Averaged Neural Network, Support Vector Machine (Radial Basis Function Kernel, Polynomial Kernel), K-Nearest Neighbors, Classification and Regression Trees (CART), Conditional Inference Trees, C5.0 Decision Trees, Random Forest and Bagged Trees algorithms. The resulting predictions derived from the candidate models were evaluated in terms of their classification performance using the accuracy metric.
 
+<img src="images/Project11_Summary.png?raw=true"/>
+
 ---
 
 [![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#)
@@ -290,6 +292,8 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_11/) implem
 <br><br>
 This [project](https://johnpaulinepineda.github.io/Portfolio_Project_10/) implements various predictive modelling procedures for dichotomous categorical responses. Models applied in the analysis to predict dichotomous categorical responses included the Logistic Regression, Linear Discriminant Analysis, Flexible Discriminant Analysis, Mixture Discriminant Analysis, Naive Bayes, Nearest Shrunken Centroids, Averaged Neural Network, Support Vector Machine (Radial Basis Function Kernel, Polynomial Kernel), K-Nearest Neighbors, Classification and Regression Trees (CART), Conditional Inference Trees, C5.0 Decision Trees, Random Forest and Bagged Trees algorithms. The resulting predictions derived from the candidate models were evaluated in terms of their discrimination power using the area under the receiver operating characteristics curve (AUROC) metric.
 
+<img src="images/Project10_Summary.png?raw=true"/>
+
 ---
 
 [![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#)
@@ -297,6 +301,8 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_10/) implem
 [Supervised Learning : Modelling Numeric Responses for Prediction](https://johnpaulinepineda.github.io/Portfolio_Project_9/)
 <br><br>
 This [project](https://johnpaulinepineda.github.io/Portfolio_Project_9/) implements various predictive modelling procedures for numeric responses. Models applied in the analysis to predict numeric responses included the Linear Regression, Penalized Regression (Ridge, Least Absolute Shrinkage and Selection Operator (LASSO), ElasticNet), Principal Component Regression, Partial Least Squares, Averaged Neural Network, Multivariate Adaptive Regression Splines (MARS), Support Vector Machine (Radial Basis Function Kernel, Polynomial Kernel), K-Nearest Neighbors, Classification and Regression Trees (CART), Conditional Inference Trees, Random Forest and Cubist algorithms. The resulting predictions derived from the candidate models were evaluated in terms of their model fit using the r-squared and root mean squred error (RMSE) metrics.
+
+<img src="images/Project9_Summary.png?raw=true"/>
 
 ---
 
