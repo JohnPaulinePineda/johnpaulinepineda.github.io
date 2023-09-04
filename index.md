@@ -332,6 +332,8 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_7/) explore
 <br><br>
 This [project](https://johnpaulinepineda.github.io/Portfolio_Project_6/) explores various analysis and imputation procedures for incomplete data. Missing data patterns were visualized using matrix, cluster and correlation plots, with the missing data mechanism evaluated using a Regression-Based Test. Methods applied in the analysis to replace missing data points with substituted values included Random Replacement, Median Imputation, Mean Imputation, Mutivariate Data Analysis Imputation (Regularized, Expectation-Maximization), Principal Component Analysis Imputation (Probabilistic, Bayesian, Support Vector Machine-Based, Non-Linear Iterative Partial Least Squares, Non-Linear Principal Component Analysis), Multivariate Imputation by Chained Equations, Bayesian Multiple Imputation, Expectation-Maximization with Bootstrapping, Random Forest Imputation, Multiple Imputation Using Additive Regression, Bootstrapping and Predictive Mean Matching and K-Nearest Neighbors Imputation. Performance of the missing data imputation methods was evaluated using the Processing Time, Root Mean Squared Error, Mean Absolute Error and Kolmogorov-Smirnov Test Statistic metrics. Post-imputation diagnostics was performed to assess the plausibility of the substituted values in comparison to the complete data.
 
+<img src="images/Project6_Summary.png?raw=true"/>
+
 ---
 
 [![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#)
