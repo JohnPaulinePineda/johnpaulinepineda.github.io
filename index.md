@@ -362,6 +362,8 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_4/) impleme
 <br><br>
 This [project](https://johnpaulinepineda.github.io/Portfolio_Project_3/) explores the various methods in comparatively evaluating the numeric response data between two treatment groups in a clinical trial. Statistical tests applied in the analysis included the Student’s T-Test, Welch T-Test, Wilcoxon Rank-Sum Test and Robust Rank-Order Test.
 
+<img src="images/Project3_Summary.png?raw=true"/>
+
 ---
 
 [![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#)
