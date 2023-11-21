@@ -28,6 +28,16 @@ Life expectancy is a statistical measure that represents the average number of y
 
 [![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
 
+[Data Preprocessing : Data Quality Assessment, Preprocessing and Exploration for a Classification Modelling Problem](https://johnpaulinepineda.github.io/Portfolio_Project_41/)
+
+This [project](https://johnpaulinepineda.github.io/Portfolio_Project_41/) explores the various methods in assessing data quality, implementing data preprocessing and conducting exploratory analysis for prediction problems with categorical responses. A non-exhaustive list of methods to detect missing data, extreme outlying points, near-zero variance, multicollinearity and skewed distributions were evaluated. Remedial procedures on addressing data quality issues including missing data imputation, centering and scaling transformation, shape transformation and outlier treatment were similarly considered, as applicable.
+
+<img src="images/Project41_Summary.png?raw=true"/>
+
+---
+
+[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+
 [Supervised Learning : Exploring Penalized Models for Predicting Numeric Responses](https://johnpaulinepineda.github.io/Portfolio_Project_40/)
 
 This [project](https://johnpaulinepineda.github.io/Portfolio_Project_40/) explores the different penalized regression modelling procedures for numeric responses. Using the standard Linear Regression and Polynomial Regression structures as reference, models applied in the analysis which evaluate various penalties for over-confidence in the parameter estimates included the Ridge Regression, Least Absolute Shrinkage and Selection Operator Regression and Elastic Net Regression algorithms. The resulting predictions derived from the candidate models were assessed in terms of their model fit using the r-squared, mean squared error (MSE) and mean absolute error (MAE) metrics..
