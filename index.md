@@ -490,6 +490,7 @@ This [paper](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.11
 
 ### Conference Abstracts
 
+- [Advancing Malignancy Risk Stratification for Early-Stage Cancers in Lung Nodules by Combined Imaging and Electrical Impedance Analysis](https://www.jto.org/article/S1556-0864(23)01635-0/fulltext#%20)
 - [Intronic Noncoding RNA Expression of DCN is Related to Cancer-Associated Fibroblasts and NSCLC Patients’ Prognosis](https://www.jto.org/article/S1556-0864(21)00892-3/fulltext)
 - [Epigenetic Imprinted Genes as Biomarkers for the Proactive Detection and Accurate Presurgical Diagnosis of Small Lung Nodules](https://www.jto.org/article/S1556-0864(21)00820-0/fulltext)
 - [Effect of Epigenetic Imprinting Biomarkers in Urine Exfoliated Cells (UEC) on the Diagnostic Accuracy of Low-Grade Bladder Cancer](https://ascopubs.org/doi/10.1200/JCO.2020.38.15_suppl.e17027)
