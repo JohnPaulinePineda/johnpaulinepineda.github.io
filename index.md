@@ -4,6 +4,26 @@
 
 ### Machine Learning Case Studies
 
+[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+
+[Supervised Learning : Estimating Cancer Rate Group Probabilities Across Countries Using Classification Algorithms With Class Imbalance Treatment](https://johnpaulinepineda.github.io/Portfolio_Project_42/)
+<br><br>
+Age-standardized cancer rates are measures used to compare cancer incidence between countries while accounting for differences in age distribution. They allow for a more accurate assessment of the relative risk of cancer across populations with diverse demographic and socio-economic characteristics - enabling a more nuanced understanding of the global burden of cancer and facilitating evidence-based public health interventions. This [case study](https://johnpaulinepineda.github.io/Portfolio_Project_42/) aims to develop an interpretable classification model which could provide robust and reliable estimates of cancer rate group probabilities from an optimal set of observations and predictors, while addressing class imbalance and delivering accurate predictions when applied to new unseen data. Data quality assessment and model-independent feature selection were conducted on the initial dataset to identify and remove cases or variables noted with irregularities, in adddition to the subsequent preprocessing operations most suitable for the downstream analysis. Multiple classification modelling algorithms with various hyperparameter combinations were formulated using Logistic Regression, Decision Tree, Random Forest and Support Vector Machine. Class imbalance treatment including Class Weights, Upsampling with Synthetic Minority Oversampling Technique (SMOTE) and Downsampling with Condensed Nearest Neighbors (CNN) were implemented. Ensemble Learning Using Model Stacking was additionally explored. Model performance among candidate models was compared using the F1 Score used as the primary performance metric among Accuracy, Precision, Recall and Area Under the Receiver Operating Characterisng Curve (AUROC); evaluated internally (using K-Fold Cross Validation) and externally (using an Independent Test Set). Post-hoc exploration of the model results to provide insights on the importance, contribution and effect of the various predictors to model prediction involved model-specific (Odds Ratios) and model-agnostic (Shapley Additive Explanations) methods.
+
+<img src="images/CaseStudy2_Summary_1.png?raw=true"/>
+
+<img src="images/CaseStudy2_Summary_2.png?raw=true"/>
+
+<img src="images/CaseStudy2_Summary_3.png?raw=true"/>
+
+<img src="images/CaseStudy2_Summary_4.png?raw=true"/>
+
+<img src="images/CaseStudy2_Summary_5.png?raw=true"/>
+
+<img src="images/CaseStudy2_Summary_6.png?raw=true"/>
+
+---
+
 [![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudio)](#)
 
 [Supervised Learning : Characterizing Life Expectancy Drivers Across Countries Using Model-Agnostic Interpretation Methods for Black-Box Models](https://johnpaulinepineda.github.io/Portfolio_Project_35/)
