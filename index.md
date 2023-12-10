@@ -6,21 +6,41 @@
 
 [![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
 
+[Unsupervised Learning : Discovering Global Patterns in Cancer Mortality Across Countries Via Clustering Analysis](https://johnpaulinepineda.github.io/Portfolio_Project_43/)
+<br><br>
+Age-standardized cancer mortality rates refer to the number of deaths attributed to cancer within a specific population over a given period, usually expressed as the number of deaths per 100,000 people adjusted for differences in age distribution. Monitoring cancer mortality rates allows public health authorities to track the burden of cancer, understand the prevalence of different cancer types and identify variations in different populations. Studying these metrics is essential for making accurate cross-country comparisons, identifying high-risk communities, informing public health policies, and supporting international efforts to address the global burden of cancer. This [case study](https://johnpaulinepineda.github.io/Portfolio_Project_43/) aims to develop a clustering model with an optimal number of clusters that could recognize patterns and relationships among cancer mortality rates across countries, allowing for a deeper understanding of the inherent and underlying data structure when evaluated against supplementary information on lifestyle factors and geolocation. Data quality assessment was conducted on the initial dataset to identify and remove cases noted with irregularities, in addition to the subsequent preprocessing operations most suitable for the downstream analysis. Multiple clustering modelling algorithms with various cluster counts were formulated using K-Means, Bisecting K-Means, Gaussian Mixture Model, Agglomerative and Ward Hierarchical methods. The best model with optimized hyperparameters from each algorithm was determined through internal resampling validation using 5-Fold Cross Validation using the Silhouette Score used as the primary performance metric. Due to the unsupervised learning nature of the analysis, all candidate models were compared based on internal validation and apparent performance. Post-hoc exploration of the model results involved clustering visualization methods using Pair Plots, Heat Maps and Geographic Maps - providing an intuitive method to investigate and understand the characteristics of the discovered cancer clusters. These findings aided in the formulation of insights on the relationship and association of the various descriptors for the clusters identified.
+
+<img src="images/CaseStudy4_Summary_1.png?raw=true"/>
+
+<img src="images/CaseStudy4_Summary_2.png?raw=true"/>
+
+<img src="images/CaseStudy4_Summary_3.png?raw=true"/>
+
+<img src="images/CaseStudy4_Summary_4.png?raw=true"/>
+
+<img src="images/CaseStudy4_Summary_5.png?raw=true"/>
+
+<img src="images/CaseStudy4_Summary_6.png?raw=true"/>
+
+---
+
+[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+
 [Supervised Learning : Identifying Contributing Factors for Countries With High Cancer Rates Using Classification Algorithms With Class Imbalance Treatment](https://johnpaulinepineda.github.io/Portfolio_Project_42/)
 <br><br>
 Age-standardized cancer rates are measures used to compare cancer incidence between countries while accounting for differences in age distribution. They allow for a more accurate assessment of the relative risk of cancer across populations with diverse demographic and socio-economic characteristics - enabling a more nuanced understanding of the global burden of cancer and facilitating evidence-based public health interventions. This [case study](https://johnpaulinepineda.github.io/Portfolio_Project_42/) aims to develop an interpretable classification model which could provide robust and reliable predictions of belonging to a group of countries with high cancer rates from an optimal set of observations and predictors, while addressing class imbalance and delivering accurate predictions when applied to new unseen data. Data quality assessment and model-independent feature selection were conducted on the initial dataset to identify and remove cases or variables noted with irregularities, in adddition to the subsequent preprocessing operations most suitable for the downstream analysis. Multiple classification modelling algorithms with various hyperparameter combinations were formulated using Logistic Regression, Decision Tree, Random Forest and Support Vector Machine. Class imbalance treatment including Class Weights, Upsampling with Synthetic Minority Oversampling Technique (SMOTE) and Downsampling with Condensed Nearest Neighbors (CNN) were implemented. Ensemble Learning Using Model Stacking was additionally explored. Model performance among candidate models was compared through the F1 Score which was used as the primary performance metric (among Accuracy, Precision, Recall and Area Under the Receiver Operating Characterisng Curve (AUROC) measures); evaluated internally (using K-Fold Cross Validation) and externally (using an Independent Test Set). Post-hoc exploration of the model results to provide insights on the importance, contribution and effect of the various predictors to model prediction involved model-specific (Odds Ratios) and model-agnostic (Shapley Additive Explanations) methods.
 
-<img src="images/CaseStudy2_Summary_1.png?raw=true"/>
+<img src="images/CaseStudy3_Summary_1.png?raw=true"/>
 
-<img src="images/CaseStudy2_Summary_2.png?raw=true"/>
+<img src="images/CaseStudy3_Summary_2.png?raw=true"/>
 
-<img src="images/CaseStudy2_Summary_3.png?raw=true"/>
+<img src="images/CaseStudy3_Summary_3.png?raw=true"/>
 
-<img src="images/CaseStudy2_Summary_4.png?raw=true"/>
+<img src="images/CaseStudy3_Summary_4.png?raw=true"/>
 
-<img src="images/CaseStudy2_Summary_5.png?raw=true"/>
+<img src="images/CaseStudy3_Summary_5.png?raw=true"/>
 
-<img src="images/CaseStudy2_Summary_6.png?raw=true"/>
+<img src="images/CaseStudy3_Summary_6.png?raw=true"/>
 
 ---
 
