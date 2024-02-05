@@ -108,6 +108,16 @@ Life expectancy is a statistical measure that represents the average number of y
 
 [![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
 
+[Supervised Learning : Implementing Gradient Descent Algorithm in Estimating Regression Coefficients](https://johnpaulinepineda.github.io/Portfolio_Project_45/)
+
+This [project](https://johnpaulinepineda.github.io/Portfolio_Project_45/) manually implements the Gradient Descent algorithm and evaluates a range of values for the learning rate and epoch count parameters to optimally estimate the coefficients of a linear regression model. The gradient descent path and loss function profiles of the different candidate parameter settings were compared, with the resulting estimated coefficients assessed against those obtained using normal equations which served as the reference baseline values.
+
+<img src="images/Project45_Summary.png?raw=true"/>
+
+---
+
+[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+
 [Data Preprocessing : Data Quality Assessment, Preprocessing and Exploration for a Classification Modelling Problem](https://johnpaulinepineda.github.io/Portfolio_Project_41/)
 
 This [project](https://johnpaulinepineda.github.io/Portfolio_Project_41/) explores the various methods in assessing data quality, implementing data preprocessing and conducting exploratory analysis for prediction problems with categorical responses. A non-exhaustive list of methods to detect missing data, extreme outlying points, near-zero variance, multicollinearity and skewed distributions were evaluated. Remedial procedures on addressing data quality issues including missing data imputation, centering and scaling transformation, shape transformation and outlier treatment were similarly considered, as applicable.
