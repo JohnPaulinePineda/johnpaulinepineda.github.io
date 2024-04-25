@@ -118,6 +118,14 @@ Life expectancy is a statistical measure that represents the average number of y
 
 [![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
 
+[Supervised Learning : Exploring Regularization Approaches for Controlling Model Complexity Through Weight Penalization for Neural Network Classification](https://johnpaulinepineda.github.io/Portfolio_Project_50/)
+
+This [project](https://johnpaulinepineda.github.io/Portfolio_Project_50/) manually implements the L1 Regularization, L2 Regularization and ElasticNet Regularization algorithms with fixed values applied for the learning rate and iteration count parameters to impose constraints on the weight updates of an artificial neural network classification model. The weight, cost function and classification accuracy optimization profiles of the different activation settings were evaluated and compared.
+
+<img src="images/Project50_Summary.png?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+
 [Supervised Learning : Comparing Optimization Algorithms in Parameter Updates and Loss Function Minimization for Neural Network Classification](https://johnpaulinepineda.github.io/Portfolio_Project_49/)
 
 This [project](https://johnpaulinepineda.github.io/Portfolio_Project_49/) manually implements the Stochastic Gradient Descent Optimization, Adaptive Moment Estimation Optimization, Adaptive Gradient Optimization, AdaDelta Optimization, Layer-wise Optimized Non-convex Optimization and Root Mean Square Propagation Optimization algorithms with fixed values applied for the learning rate and iteration count parameters to optimally update the gradients and weights of an artificial neural network classification model. The cost function and classification accuracy optimization profiles of the different algorithms were evaluated and compared.
