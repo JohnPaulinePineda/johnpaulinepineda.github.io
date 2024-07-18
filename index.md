@@ -118,11 +118,24 @@ Life expectancy is a statistical measure that represents the average number of y
 
 [![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
 
+[Supervised Learning : Implementing Shapley Additive Explanations for Interpreting Feature Contributions in Penalized Cox Regression](https://johnpaulinepineda.github.io/Portfolio_Project_52/)
+
+This [project](https://johnpaulinepineda.github.io/Portfolio_Project_52/) explores different variations of penalty functions as applied on models for right-censored time-to-event responses. Using the standard Cox Proportional Hazards Regression structure as reference, regularization methods including Least Absolute Shrinkage and Selection Operator, Ridge and Elastic Net were used to aid in improving the model's predictive performance and interpretability by addressing overfitting and multicollinearity issues. The resulting predictions derived from the candidate models were evaluated in terms of their discrimination power using the concordance index metric. Predictor selection and effects were evaluated using the coefficient magnitude and hazard ratio. Feature impact on model output were assessed using Shapley Additive Explanations. The differences in survival probabilities for different risk groups were additionally examined using the Kaplan-Meier survival curves. The survival probability and hazard profiles for sampled individual cases were estimated. 
+
+<img src="images/Project52_Summary.png?raw=true"/>
+
+---
+
+
+[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+
 [Supervised Learning : Modelling Right-Censored Survival Time and Status Responses for Prediction](https://johnpaulinepineda.github.io/Portfolio_Project_51/)
 
 This [project](https://johnpaulinepineda.github.io/Portfolio_Project_51/) implements various predictive modelling procedures for right-censored time-to-event responses. Models applied in the analysis to estimate survival risk scores included the Cox Proportional Hazards Regression, Cox Net Survival, Survival Trees, Random Survival Forest and Gradient Boosted Survival algorithms. The resulting predictions derived from the candidate models were evaluated in terms of their discrimination power using the concordance index metric. The differences in survival probabilities for different risk groups were additionally examined using the Kaplan-Meier survival curves. The survival probability and hazard profiles for sampled individual cases were assessed. Permutation-based and absolute coefficient-based feature importance rankings were determined, as applicable, for model interpretation.
 
 <img src="images/Project51_Summary.png?raw=true"/>
+
+---
 
 [![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
 
@@ -131,6 +144,8 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_51/) implem
 This [project](https://johnpaulinepineda.github.io/Portfolio_Project_50/) manually implements the L1 Regularization, L2 Regularization and ElasticNet Regularization algorithms with fixed values applied for the learning rate and iteration count parameters to impose constraints on the weight updates of an artificial neural network classification model. The weight, cost function and classification accuracy optimization profiles of the different activation settings were evaluated and compared.
 
 <img src="images/Project50_Summary.png?raw=true"/>
+
+---
 
 [![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
 
@@ -196,7 +211,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_41/) explor
 
 [Supervised Learning : Exploring Penalized Models for Predicting Numeric Responses](https://johnpaulinepineda.github.io/Portfolio_Project_40/)
 
-This [project](https://johnpaulinepineda.github.io/Portfolio_Project_40/) explores the different penalized regression modelling procedures for numeric responses. Using the standard Linear Regression and Polynomial Regression structures as reference, models applied in the analysis which evaluate various penalties for over-confidence in the parameter estimates included the Ridge Regression, Least Absolute Shrinkage and Selection Operator Regression and Elastic Net Regression algorithms. The resulting predictions derived from the candidate models were assessed in terms of their model fit using the r-squared, mean squared error (MSE) and mean absolute error (MAE) metrics..
+This [project](https://johnpaulinepineda.github.io/Portfolio_Project_40/) explores the different penalized regression modelling procedures for numeric responses. Using the standard Linear Regression and Polynomial Regression structures as reference, models applied in the analysis which evaluate various penalties for over-confidence in the parameter estimates included the Ridge Regression, Least Absolute Shrinkage and Selection Operator Regression and Elastic Net Regression algorithms. The resulting predictions derived from the candidate models were assessed in terms of their model fit using the r-squared, mean squared error (MSE) and mean absolute error (MAE) metrics.
 
 <img src="images/Project40_Summary.png?raw=true"/>
 
