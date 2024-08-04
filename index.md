@@ -118,6 +118,16 @@ Life expectancy is a statistical measure that represents the average number of y
 
 [![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
 
+[Supervised Learning : Exploring Parametric Accelerated Failure Time Models for Estimating Lifetimes in Survival Data](https://johnpaulinepineda.github.io/Portfolio_Project_53/)
+
+This [project](https://johnpaulinepineda.github.io/Portfolio_Project_53/) implements Accelerated Failure Time Models based on the Weibull, Log-Normal and Log-Logistic distributions to analyze time-to-event data by directly modelling the survival time. The statistically significant model predictors were identified with their effects on the estimated lifetime evaluated using their acceleration factors. The resulting predictions derived from the candidate models were evaluated in terms of their discrimination power, fit and calibration performance using the concordance index metric, mean absolute error and brier score. Feature impact on model output were assessed using Shapley Additive Explanations. Survival and hazard functions were estimated. 
+
+<img src="images/Project53_Summary.png?raw=true"/>
+
+---
+
+[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+
 [Supervised Learning : Implementing Shapley Additive Explanations for Interpreting Feature Contributions in Penalized Cox Regression](https://johnpaulinepineda.github.io/Portfolio_Project_52/)
 
 This [project](https://johnpaulinepineda.github.io/Portfolio_Project_52/) explores different variations of penalty functions as applied on models for right-censored time-to-event responses. Using the standard Cox Proportional Hazards Regression structure as reference, regularization methods including Least Absolute Shrinkage and Selection Operator, Ridge and Elastic Net were used to aid in improving the model's predictive performance and interpretability by addressing overfitting and multicollinearity issues. The resulting predictions derived from the candidate models were evaluated in terms of their discrimination power using the concordance index metric. Predictor selection and effects were determined using the coefficient magnitude and hazard ratio. Feature impact on model output were assessed using Shapley Additive Explanations. The differences in survival probabilities for different risk groups were additionally examined using the Kaplan-Meier survival curves. The survival probability and hazard profiles for sampled individual cases were estimated. 
