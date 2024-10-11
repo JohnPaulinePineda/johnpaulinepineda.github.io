@@ -685,6 +685,12 @@ This [project](https://public.tableau.com/app/profile/john.pauline.pineda/viz/Sp
 
 ### Scientific Research Papers
 
+[Genomic Imprinting Biomarkers for Cervical Cancer Risk Stratification](https://onlinelibrary.wiley.com/doi/10.1002/cac2.12617)
+<br><br>
+This [paper](https://onlinelibrary.wiley.com/doi/10.1002/cac2.12617) published in the Cancer Communications Journal is a collaborative study on formulating a cervical malignancy risk prediction model using epigenetic imprinting biomarkers. Statistical methods were applied accordingly during differential analysis; gene screening study; and diagnostic classification model building, optimization and validation. The area under the receiver operating characteristics curve (AUROC) metric was used to measure the discrimination power of the candidate predictors, with the classification performance of the candidate models evaluated using the sensitivity, specificity, positive predictive value (PPV) and negative predictive value (NPV) metrics. The final prediction model was internally validated using a 500-cycle optimism-adjusted bootstrap and externally validated using an independent cohort.
+
+---
+
 [High Diagnostic Accuracy of Epigenetic Imprinting Biomarkers in Thyroid Nodules](https://ascopubs.org/doi/10.1200/JCO.22.00232)
 <br><br>
 This [paper](https://ascopubs.org/doi/10.1200/JCO.22.00232) published in the Journal of Clinical Oncology is a collaborative study on formulating a thyroid cancer prediction model using epigenetic imprinting biomarkers. Statistical methods were applied accordingly during differential analysis; gene screening study; and diagnostic grading model building, optimization and validation. The area under the receiver operating characteristics curve (AUROC) metric was used to measure the discrimination power of the candidate predictors, with the classification performance of the candidate models evaluated using the sensitivity, specificity, positive predictive value (PPV) and negative predictive value (NPV) metrics. The final prediction model was internally validated using a 500-cycle optimism-adjusted bootstrap and externally validated using an independent cohort.
