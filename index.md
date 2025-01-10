@@ -4,7 +4,7 @@
 
 ### Machine Learning Applications
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#) [![](https://img.shields.io/badge/Github-black?logo=Github)](#) [![](https://img.shields.io/badge/Streamlit-black?logo=Streamlit)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#) [![](https://img.shields.io/badge/Github-black)](#) [![](https://img.shields.io/badge/Streamlit-black)](#)
 
 [**Model Deployment** : Classifying Brain Tumors from Magnetic Resonance Images by Leveraging Convolutional Neural Network-Based Multilevel Feature Extraction and Hierarchical Representation](https://johnpaulinepineda.github.io/Portfolio_Project_56/)
 <br><br>
@@ -20,7 +20,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_56/) aims t
 
 ---
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#) [![](https://img.shields.io/badge/Github-black?logo=Github)](#) [![](https://img.shields.io/badge/Streamlit-black?logo=Streamlit)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#) [![](https://img.shields.io/badge/Github-black)](#) [![](https://img.shields.io/badge/Streamlit-black)](#)
 
 [**Model Deployment** : Estimating Heart Failure Survival Risk Profiles From Cardiovascular, Hematologic And Metabolic Markers](https://johnpaulinepineda.github.io/Portfolio_Project_55/)
 <br><br>
@@ -36,7 +36,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_55/) aims t
 
 ---
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#) [![](https://img.shields.io/badge/Github-black?logo=Github)](#) [![](https://img.shields.io/badge/Streamlit-black?logo=Streamlit)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#) [![](https://img.shields.io/badge/Github-black)](#) [![](https://img.shields.io/badge/Streamlit-black)](#)
 
 [**Model Deployment** : Estimating Lung Cancer Probabilities From Demographic Factors, Clinical Symptoms And Behavioral Indicators](https://johnpaulinepineda.github.io/Portfolio_Project_54/)
 <br><br>
@@ -54,7 +54,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_54/) aims t
 
 ### Machine Learning Case Studies
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#)
 
 [**Supervised Learning** : Learning Hierarchical Features for Predicting Multiclass X-Ray Images using Convolutional Neural Network Model Variations](https://johnpaulinepineda.github.io/Portfolio_Project_44/)
 <br><br>
@@ -76,7 +76,7 @@ The integration of artificial intelligence (AI) into healthcare has emerged as a
 
 ---
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#)
 
 [**Unsupervised Learning** : Discovering Global Patterns in Cancer Mortality Across Countries Via Clustering Analysis](https://johnpaulinepineda.github.io/Portfolio_Project_43/)
 <br><br>
@@ -98,7 +98,7 @@ Age-standardized cancer mortality rates refer to the number of deaths attributed
 
 ---
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#)
 
 [**Supervised Learning** : Identifying Contributing Factors for Countries With High Cancer Rates Using Classification Algorithms With Class Imbalance Treatment](https://johnpaulinepineda.github.io/Portfolio_Project_42/)
 <br><br>
@@ -120,7 +120,7 @@ Age-standardized cancer rates are measures used to compare cancer incidence betw
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Unsupervised Learning** : Uncovering Underlying Constructs of Chronic Disease Indicators Across US States Using Exploratory and Confirmatory Factor Analyses](https://johnpaulinepineda.github.io/Portfolio_Project_37/)
 <br><br>
@@ -142,7 +142,7 @@ Chronic disease indicators are a set of surveillance indicators developed by con
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Supervised Learning** : Characterizing Life Expectancy Drivers Across Countries Using Model-Agnostic Interpretation Methods for Black-Box Models](https://johnpaulinepineda.github.io/Portfolio_Project_35/)
 <br><br>
@@ -166,7 +166,7 @@ Life expectancy is a statistical measure that represents the average number of y
 
 ### Machine Learning Exploratory Projects
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#)
 
 [**Supervised Learning** : Exploring Parametric Accelerated Failure Time Models for Estimating Lifetimes in Survival Data](https://johnpaulinepineda.github.io/Portfolio_Project_53/)
 
@@ -176,7 +176,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_53/) implem
 
 ---
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#)
 
 [**Supervised Learning** : Implementing Shapley Additive Explanations for Interpreting Feature Contributions in Penalized Cox Regression](https://johnpaulinepineda.github.io/Portfolio_Project_52/)
 
@@ -187,7 +187,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_52/) explor
 ---
 
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#)
 
 [**Supervised Learning** : Modelling Right-Censored Survival Time and Status Responses for Prediction](https://johnpaulinepineda.github.io/Portfolio_Project_51/)
 
@@ -197,7 +197,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_51/) implem
 
 ---
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#)
 
 [**Supervised Learning** : Exploring Regularization Approaches for Controlling Model Complexity Through Weight Penalization for Neural Network Classification](https://johnpaulinepineda.github.io/Portfolio_Project_50/)
 
@@ -207,7 +207,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_50/) manual
 
 ---
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#)
 
 [**Supervised Learning** : Comparing Optimization Algorithms in Parameter Updates and Loss Function Minimization for Neural Network Classification](https://johnpaulinepineda.github.io/Portfolio_Project_49/)
 
@@ -217,7 +217,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_49/) manual
 
 ---
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#)
 
 [**Supervised Learning** : Exploring Activation Functions And Backpropagation Gradient Updates for Neural Network Classification](https://johnpaulinepineda.github.io/Portfolio_Project_48/)
 
@@ -227,7 +227,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_48/) manual
 
 ---
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#)
 
 [**Supervised Learning** : Comparing Batch, Stochastic and Mini-Batch Approaches to Gradient Descent in Estimating Regression Coefficients](https://johnpaulinepineda.github.io/Portfolio_Project_47/)
 
@@ -237,7 +237,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_47/) manual
 
 ---
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#)
 
 [**Supervised Learning** : Implementing Backpropagation In Updating Weights for Neural Network Classification](https://johnpaulinepineda.github.io/Portfolio_Project_46/)
 
@@ -247,7 +247,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_46/) manual
 
 ---
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#)
 
 [**Supervised Learning** : Implementing Gradient Descent Algorithm in Estimating Regression Coefficients](https://johnpaulinepineda.github.io/Portfolio_Project_45/)
 
@@ -257,7 +257,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_45/) manual
 
 ---
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#)
 
 [**Data Preprocessing** : Data Quality Assessment, Preprocessing and Exploration for a Classification Modelling Problem](https://johnpaulinepineda.github.io/Portfolio_Project_41/)
 
@@ -267,7 +267,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_41/) explor
 
 ---
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#)
 
 [**Supervised Learning** : Exploring Penalized Models for Predicting Numeric Responses](https://johnpaulinepineda.github.io/Portfolio_Project_40/)
 
@@ -277,7 +277,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_40/) explor
 
 ---
 
-[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-black?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/Python-black)](#) [![](https://img.shields.io/badge/Jupyter-black)](#)
 
 [**Data Preprocessing** : Data Quality Assessment, Preprocessing and Exploration for a Regression Modelling Problem](https://johnpaulinepineda.github.io/Portfolio_Project_39/)
 
@@ -287,7 +287,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_39/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Supervised Learning** : Exploring Boosting, Bagging and Stacking Algorithms for Ensemble Learning](https://johnpaulinepineda.github.io/Portfolio_Project_38/)
 <br><br>
@@ -297,7 +297,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_38/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Unsupervised Learning** : Discovering Latent Variables in High-Dimensional Data using Exploratory Factor Analysis](https://johnpaulinepineda.github.io/Portfolio_Project_36/)
 <br><br>
@@ -307,7 +307,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_36/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Supervised Learning** : Exploring Penalized Models for Handling High-Dimensional Survival Data](https://johnpaulinepineda.github.io/Portfolio_Project_34/)
 <br><br>
@@ -317,7 +317,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_34/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Unsupervised Learning** : Exploring and Visualizing Extracted Dimensions from Principal Component Algorithms](https://johnpaulinepineda.github.io/Portfolio_Project_33/)
 <br><br>
@@ -327,7 +327,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_33/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Statistical Evaluation** : Sample Size and Power Calculations for Tests Comparing Proportions in Clinical Research](https://johnpaulinepineda.github.io/Portfolio_Project_32/)
 <br><br>
@@ -337,7 +337,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_32/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Statistical Evaluation** : Sample Size and Power Calculations for Tests Comparing Means in Clinical Research](https://johnpaulinepineda.github.io/Portfolio_Project_31/)
 <br><br>
@@ -347,7 +347,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_31/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Data Preprocessing** : Comparing Oversampling and Undersampling Algorithms for Class Imbalance Treatment](https://johnpaulinepineda.github.io/Portfolio_Project_30/)
 <br><br>
@@ -357,7 +357,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_30/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Supervised Learning** : Exploring Performance Evaluation Metrics for Survival Prediction](https://johnpaulinepineda.github.io/Portfolio_Project_29/)
 <br><br>
@@ -367,7 +367,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_29/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Supervised Learning** : Exploring Robust Logistic Regression Models for Handling Quasi-Complete Separation](https://johnpaulinepineda.github.io/Portfolio_Project_28/)
 <br><br>
@@ -377,7 +377,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_28/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Unsupervised Learning** : Estimating Outlier Scores Using Density and Distance-Based Anomaly Detection Algorithms](https://johnpaulinepineda.github.io/Portfolio_Project_27/)
 <br><br>
@@ -387,7 +387,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_27/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Unsupervised Learning** : Estimating Outlier Scores Using Isolation Forest-Based Anomaly Detection Algorithms](https://johnpaulinepineda.github.io/Portfolio_Project_26/)
 <br><br>
@@ -397,7 +397,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_26/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Unsupervised Learning** : Identifying Multivariate Outliers Using Density-Based Clustering Algorithms](https://johnpaulinepineda.github.io/Portfolio_Project_25/)
 <br><br>
@@ -407,7 +407,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_25/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Supervised Learning** : Exploring Dichotomization Thresholding Strategies for Optimal Classification](https://johnpaulinepineda.github.io/Portfolio_Project_24/)
 <br><br>
@@ -417,7 +417,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_24/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Supervised Learning** : Implementing Gradient Descent Algorithm in Estimating Regression Coefficients](https://johnpaulinepineda.github.io/Portfolio_Project_23/)
 <br><br>
@@ -427,7 +427,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_23/) manual
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Unsupervised Learning** : Formulating Segmented Groups Using Clustering Algorithms](https://johnpaulinepineda.github.io/Portfolio_Project_22/)
 <br><br>
@@ -437,7 +437,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_22/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Unsupervised Learning** : Extracting Information Using Dimensionality Reduction Algorithms](https://johnpaulinepineda.github.io/Portfolio_Project_21/)
 <br><br>
@@ -447,7 +447,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_21/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Data Preprocessing** : Remedial Procedures for Skewed Data with Extreme Outliers](https://johnpaulinepineda.github.io/Portfolio_Project_20/)
 <br><br>
@@ -457,7 +457,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_20/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Feature Selection** : Selecting Informative Predictors Using Simulated Annealing and Genetic Algorithms](https://johnpaulinepineda.github.io/Portfolio_Project_19/)
 <br><br>
@@ -467,7 +467,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_19/) implem
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Feature Selection** : Selecting Informative Predictors Using Univariate Filters](https://johnpaulinepineda.github.io/Portfolio_Project_18/)
 <br><br>
@@ -477,7 +477,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_18/) implem
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Feature Selection** : Selecting Informative Predictors Using Recursive Feature Elimination](https://johnpaulinepineda.github.io/Portfolio_Project_17/)
 <br><br>
@@ -487,7 +487,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_17/) implem
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Feature Selection** : Evaluating Model-Independent Feature Importance for Predictors with Dichotomous Categorical Responses](https://johnpaulinepineda.github.io/Portfolio_Project_16/)
 <br><br>
@@ -497,7 +497,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_16/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Feature Selection** : Evaluating Model-Independent Feature Importance for Predictors with Numeric Responses](https://johnpaulinepineda.github.io/Portfolio_Project_15/)
 <br><br>
@@ -507,7 +507,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_15/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Supervised Learning** : Cost-Sensitive Learning for Severe Class Imbalance](https://johnpaulinepineda.github.io/Portfolio_Project_14/)
 <br><br>
@@ -517,7 +517,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_14/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Data Preprocessing** : Remedial Procedures in Handling Imbalanced Data for Classification](https://johnpaulinepineda.github.io/Portfolio_Project_13/)
 <br><br>
@@ -527,7 +527,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_13/) explor
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Supervised Learning** : Evaluating Hyperparameter Tuning Strategies and Resampling Distributions](https://johnpaulinepineda.github.io/Portfolio_Project_12/)
 <br><br>
@@ -537,7 +537,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_12/) implem
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Supervised Learning** : Modelling Multiclass Categorical Responses for Prediction](https://johnpaulinepineda.github.io/Portfolio_Project_11/)
 <br><br>
@@ -547,7 +547,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_11/) implem
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Supervised Learning** : Modelling Dichotomous Categorical Responses for Prediction](https://johnpaulinepineda.github.io/Portfolio_Project_10/)
 <br><br>
@@ -557,7 +557,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_10/) implem
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Supervised Learning** : Modelling Numeric Responses for Prediction](https://johnpaulinepineda.github.io/Portfolio_Project_9/)
 <br><br>
@@ -567,7 +567,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_9/) impleme
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Supervised Learning** : Resampling Procedures for Model Hyperparameter Tuning and Internal Validation](https://johnpaulinepineda.github.io/Portfolio_Project_8/)
 <br><br>
@@ -577,7 +577,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_8/) explore
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Supervised Learning** : Clinical Research Prediction Model Development and Evaluation for Prognosis](https://johnpaulinepineda.github.io/Portfolio_Project_7/)
 <br><br>
@@ -587,7 +587,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_7/) explore
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Data Preprocessing** : Missing Data Pattern Analysis, Imputation Method Evaluation and Post-Imputation Diagnostics](https://johnpaulinepineda.github.io/Portfolio_Project_6/)
 <br><br>
@@ -597,7 +597,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_6/) explore
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Supervised Learning** : Survival Analysis and Descriptive Modelling for a Three-Group Right-Censored Data with Time-Independent Variables Using Cox Proportional Hazards Model](https://johnpaulinepineda.github.io/Portfolio_Project_5/)
 <br><br>
@@ -607,7 +607,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_5/) impleme
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Supervised Learning** : Survival Analysis and Descriptive Modelling for a Two-Group Right-Censored Data with Time-Independent Variables Using Cox Proportional Hazards Model](https://johnpaulinepineda.github.io/Portfolio_Project_4/)
 <br><br>
@@ -617,7 +617,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_4/) impleme
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Statistical Evaluation** : Treatment Comparison Tests Between a Single Two-Level Factor Variable and a Single Numeric Response Variable](https://johnpaulinepineda.github.io/Portfolio_Project_3/)
 <br><br>
@@ -627,7 +627,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_3/) explore
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Data Preprocessing** : Data Quality Assessment, Preprocessing and Exploration for a Regression Modelling Problem](https://johnpaulinepineda.github.io/Portfolio_Project_2/)
 <br><br>
@@ -637,7 +637,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_2/) explore
 
 ---
 
-[![](https://img.shields.io/badge/R-black?logo=R)](#) [![](https://img.shields.io/badge/RStudio-black?logo=RStudioIDE)](#)
+[![](https://img.shields.io/badge/R-black)](#) [![](https://img.shields.io/badge/RStudio-black)](#)
 
 [**Data Preprocessing** : Data Quality Assessment, Preprocessing and Exploration for a Classification Modelling Problem](https://johnpaulinepineda.github.io/Portfolio_Project_1/)
 <br><br>
@@ -649,7 +649,7 @@ This [project](https://johnpaulinepineda.github.io/Portfolio_Project_1/) explore
 
 ### Visual Analytics Projects
 
-[![](https://img.shields.io/badge/Tableau-black?logo=Tableau)](#)
+[![](https://img.shields.io/badge/Tableau-black)](#)
 
 [**Data Visualization** : Dashboard Development with Slice-and-Dice Exploration Features](https://public.tableau.com/app/profile/john.pauline.pineda/viz/SuperstoreBusinessAnalysisDashboard/BusinessDashboard)
 <br><br>
@@ -659,7 +659,7 @@ This [project](https://public.tableau.com/app/profile/john.pauline.pineda/viz/Su
 
 ---
 
-[![](https://img.shields.io/badge/Tableau-black?logo=Tableau)](#)
+[![](https://img.shields.io/badge/Tableau-black)](#)
 
 [**Data Visualization** : Dashboard Development with Dynamic Filtering Features](https://public.tableau.com/app/profile/john.pauline.pineda/viz/IBMHRAttritionAnalysisDashboard/AttritionDashboard)
 <br><br>
@@ -669,7 +669,7 @@ This [project](https://public.tableau.com/app/profile/john.pauline.pineda/viz/IB
 
 ---
 
-[![](https://img.shields.io/badge/Tableau-black?logo=Tableau)](#)
+[![](https://img.shields.io/badge/Tableau-black)](#)
 
 [**Data Visualization** : Dashboard Development with Longitudinal Change Tracking Features](https://public.tableau.com/app/profile/john.pauline.pineda/viz/CrunchbaseCompanyFundRaisingTrendDashboard/PeriodicalChangeTrackingDashboard)
 <br><br>
@@ -679,7 +679,7 @@ This [project](https://public.tableau.com/app/profile/john.pauline.pineda/viz/Cr
 
 ---
 
-[![](https://img.shields.io/badge/Tableau-black?logo=Tableau)](#)
+[![](https://img.shields.io/badge/Tableau-black)](#)
 
 [**Data Visualization** : Dashboard Development with What-If Scenario Analysis Features](https://public.tableau.com/app/profile/john.pauline.pineda/viz/WirelessBusinessWhat-IfAnalysisDashboard/WirelessWhatIfAnalysisDashboard)
 <br><br>
@@ -689,7 +689,7 @@ This [project](https://public.tableau.com/app/profile/john.pauline.pineda/viz/Wi
 
 ---
 
-[![](https://img.shields.io/badge/Tableau-black?logo=Tableau)](#)
+[![](https://img.shields.io/badge/Tableau-black)](#)
 
 [**Data Visualization** : Dashboard Development with Period-To-Date Performance Tracking Features](https://public.tableau.com/app/profile/john.pauline.pineda/viz/SportsStoreBusinessIndexMonitoringDashboard/RunningTotalsMonitoringDashboard)
 <br><br>
