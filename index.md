@@ -166,7 +166,7 @@ Life expectancy is a statistical measure that represents the average number of y
 
 ### Machine Learning Exploratory Projects
 
-[<img src="https://img.shields.io/badge/Python-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Python Badge"/>](https://www.python.org/) [<img src="https://img.shields.io/badge/Jupyter-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Jupyter Badge"/>](https://jupyter.org/) [<img src="https://img.shields.io/badge/FastAPI-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="FastAPI Badge"/>](https://fastapi.tiangolo.com/) [<img src="https://img.shields.io/badge/Flask-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Flask Badge"/>](https://flask.palletsprojects.com/en/stable/)
+[<img src="https://img.shields.io/badge/Python-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Python Badge"/>](https://www.python.org/) [<img src="https://img.shields.io/badge/Jupyter-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Jupyter Badge"/>](https://jupyter.org/)
 
 [**Supervised Learning** : Leveraging Ensemble Learning With Bagging, Boosting, Stacking and Blending Approaches](https://johnpaulinepineda.github.io/Portfolio_Project_59/)
 
