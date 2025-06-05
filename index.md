@@ -755,6 +755,12 @@ This [paper](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.11
 
 ---
 
+[**Ultrasound in Medicine and Biology** : New Thyroid Imaging Reporting and Data System (TIRADS) Based on Ultrasonography Features for Follicular Thyroid Neoplasms: A Multicenter Study](https://www.umbjournal.org/article/S0301-5629(25)00156-5/abstract)
+<br><br>
+This [paper](https://www.umbjournal.org/article/S0301-5629(25)00156-5/abstract) is a multicenter study on formulating a thyroid risk stratification system specifically for follicular thyroid neoplasms (FTNs), including adenomas and carcinomas, using ultrasonographic features. Statistical methods were applied during feature analysis, model development using logistic regression, and diagnostic classification optimization and validation. The area under the receiver operating characteristic curve (AUROC) metric was used to assess diagnostic discrimination, while classification performance was compared against four existing risk stratification systems using sensitivity, specificity, and unnecessary fine needle aspiration (FNA) rates. The final FTN-TIRADS model was internally tested and externally validated in an independent cohort, demonstrating superior diagnostic performance and a significantly lower unnecessary FNA rate compared to current guidelines.
+
+---
+
 ### Conference Abstracts
 
 - [**Journal of Thoracic Oncology** : Advancing Malignancy Risk Stratification for Early-Stage Cancers in Lung Nodules by Combined Imaging and Electrical Impedance Analysis](https://www.jto.org/article/S1556-0864(23)01635-0/fulltext#%20)
