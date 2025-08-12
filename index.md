@@ -166,6 +166,16 @@ Life expectancy is a statistical measure that represents the average number of y
 
 ### Machine Learning Exploratory Projects
 
+[<img src="https://img.shields.io/badge/Python-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Python Badge"/>](https://www.python.org/) [<img src="https://img.shields.io/badge/Jupyter-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Jupyter Badge"/>](https://jupyter.org/) [<img src="https://img.shields.io/badge/MLflow-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="MLflow Badge"/>](https://mlflow.org/))
+
+[**Model Deployment** : Machine Learning Model Experiment Logging and Tracking Using Open-Source Frameworks](https://johnpaulinepineda.github.io/Portfolio_Project_62/)
+
+This [project](https://johnpaulinepineda.github.io/Portfolio_Project_62/) explores open-source solutions for managing the complete lifecycle of machine learning models, with a focus on leveraging MLflow for experiment tracking, model selection, and production deployment. The objective was to design a reproducible and automated workflow for evaluating multiple ensemble classifiers, selecting the top-performing model through systematic comparison, and operationalizing it for production use. The workflow began with multiple ensemble learning methods - Random Forest, Adaptive Boosting, Gradient Boosting, Extreme Gradient Boosting, Light Gradient Boosting Machines and Categorical Boosting algorithms - undergoing hyperparameter tuning, with all experiments logged in the MLflow Tracking UI for organized performance monitoring. The highest-performing model was identified using a multi-metric ranking approach involving the F1 Score, Sensitivity, Specificity and Accuracy metrics, and then registered in the MLflow Model Registry to ensure version-controlled storage alongside its metadata and artifacts. A symbolic alias was assigned to streamline future updates and eliminate the need for hardcoded version references in production. The resulting production-ready model was validated on unseen data, confirming its generalization capability. By integrating tracking, artifact management, registry operations, and deployment through MLflow’s open-source capabilities, this project demonstrated a robust and scalable MLOps workflow that enhances reproducibility, governance, and operational efficiency in deploying machine learning models to production environments. 
+
+<img src="images/Project62_Summary.png?raw=true"/>
+
+---
+
 [<img src="https://img.shields.io/badge/Python-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Python Badge"/>](https://www.python.org/) [<img src="https://img.shields.io/badge/Jupyter-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Jupyter Badge"/>](https://jupyter.org/)
 
 [**Supervised / Unsupervised Learning** : Detecting and Evaluating Anomalies in Categorical Data Under Supervised and Unsupervised Settings](https://johnpaulinepineda.github.io/Portfolio_Project_61/)
