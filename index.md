@@ -166,6 +166,16 @@ Life expectancy is a statistical measure that represents the average number of y
 
 ### Machine Learning Exploratory Projects
 
+[<img src="https://img.shields.io/badge/Python-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Python Badge"/>](https://www.python.org/) [<img src="https://img.shields.io/badge/Jupyter-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Jupyter Badge"/>](https://jupyter.org/) [<img src="https://img.shields.io/badge/NannyML-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="NannyML Badge"/>](https://mlflow.org/)
+
+[**Model Deployment** : Detecting and Analyzing Machine Learning Model Drift Using Open-Source Monitoring Tools](https://johnpaulinepineda.github.io/Portfolio_Project_63/)
+
+This [project](https://johnpaulinepineda.github.io/Portfolio_Project_63/) explores open-source approaches for monitoring machine learning models after deployment, with a focus on leveraging NannyML to detect, interpret, and quantify data and performance drifts in production pipelines. The primary objective was to assess how various types of drift including Covariate Drift, Prior Shift, Concept Drift, Missingness Spikes, and Seasonal Patterns manifest in post-deployment environments and to demonstrate how proactive monitoring can mitigate the risks of model degradation and bias. The workflow began with building and evaluating a baseline predictive model, which served as a stability reference for diagnostic comparisons. The dataset was systematically perturbed to emulate realistic operational conditions, enabling the controlled study of different drift scenarios. NannyML’s Kolmogorov–Smirnov (KS) Statistic and Confidence-Based Performance Estimation (CBPE) methods were applied to measure distributional changes and estimate model performance both with and without access to ground truth labels. Through comparative analysis between baseline and perturbed conditions, the project illustrated how continuous monitoring provides early warning signals of model instability—enhancing reliability and accountability beyond traditional offline evaluations. Overall, the study highlighted the importance of incorporating tools like NannyML into modern MLOps frameworks to enable sustainable model governance, interpretability, and long-term performance assurance. 
+
+<img src="images/Project63_Summary.png?raw=true"/>
+
+---
+
 [<img src="https://img.shields.io/badge/Python-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Python Badge"/>](https://www.python.org/) [<img src="https://img.shields.io/badge/Jupyter-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Jupyter Badge"/>](https://jupyter.org/) [<img src="https://img.shields.io/badge/MLflow-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="MLflow Badge"/>](https://mlflow.org/)
 
 [**Model Deployment** : Machine Learning Model Experiment Logging and Tracking Using Open-Source Frameworks](https://johnpaulinepineda.github.io/Portfolio_Project_62/)
