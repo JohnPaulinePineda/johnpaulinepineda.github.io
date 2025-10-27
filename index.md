@@ -166,7 +166,7 @@ Life expectancy is a statistical measure that represents the average number of y
 
 ### Machine Learning Exploratory Projects
 
-[<img src="https://img.shields.io/badge/Python-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Python Badge"/>](https://www.python.org/) [<img src="https://img.shields.io/badge/Jupyter-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Jupyter Badge"/>](https://jupyter.org/) [<img src="https://img.shields.io/badge/NannyML-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="NannyML Badge"/>](https://mlflow.org/)
+[<img src="https://img.shields.io/badge/Python-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Python Badge"/>](https://www.python.org/) [<img src="https://img.shields.io/badge/Jupyter-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="Jupyter Badge"/>](https://jupyter.org/) [<img src="https://img.shields.io/badge/NannyML-blue?logoColor=blue&labelColor=white&style=for-the-badge" alt="NannyML Badge"/>](https://www.nannyml.com/)
 
 [**Model Deployment** : Detecting and Analyzing Machine Learning Model Drift Using Open-Source Monitoring Tools](https://johnpaulinepineda.github.io/Portfolio_Project_63/)
 
